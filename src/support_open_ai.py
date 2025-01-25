@@ -52,7 +52,7 @@ def process_data(openai_client, assistant_id, thread_id, message):
             break
         else:
             print(f"Esperando a que se complete...{run.id}")
-            time.sleep(1)
+            time.sleep(3)
 
     print(f"Thread ID: {thread_id}")
     print(f"Run ID: {run.id}")

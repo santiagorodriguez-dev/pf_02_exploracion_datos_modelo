@@ -1,0 +1,13 @@
+Datos a procesar 100 registros
+Esperando a que se complete...run_xUKzzcQQA9rTOqebvyc6kko6
+Esperando a que se complete...run_xUKzzcQQA9rTOqebvyc6kko6
+Esperando a que se complete...run_xUKzzcQQA9rTOqebvyc6kko6
+Esperando a que se complete...run_xUKzzcQQA9rTOqebvyc6kko6
+se completó exitosamente.
+Thread ID: thread_DY4kzJjOsnGZm2J0LXFV4T7l
+Run ID: run_xUKzzcQQA9rTOqebvyc6kko6
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.23 seconds
+Registro Actualizado data=[{'index': 0, 'nombre': 'Violeta', 'apellidos': 'Téllez', 'email': 'fulgenciomontenegro@example.org', 'estudios': 'Bachillerato', 'especialidad': 'Letras', 'ciudad': 'Burgos', 'edad': 23, 'telefono': '+34 803 299 559', 'sexo': 'Mujer', 'motivo_compra': 'Demanda laboral en constante crecimiento', 'score': 55}] count=None
+Se procesaron 1 registros
