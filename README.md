@@ -15,3 +15,5 @@
 -  4. Entregabl
   Informe del EDA con visualizaciones.
   Selección del modelo y métrica de evaluación elegida.
+  
+  python.exe modelo_predictivo.py > logs\procesado.txt
