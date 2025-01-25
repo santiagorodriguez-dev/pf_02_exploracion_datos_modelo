@@ -13,12 +13,6 @@ def init_openai():
     os.getenv("OPENAI_API_KEY")
     return OpenAI()
 
-def list_asisstants(openai_client):
-    return  openai_client.beta.assistants.list(
-        order="desc",
-        limit="20",
-    )
-
 def get_assistant(openai_client, assistant_id):
     return openai_client.beta.assistants.retrieve(
         assistant_id=assistant_id
