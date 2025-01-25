@@ -13,13 +13,12 @@ def modelo_predictivo():
    
    openai_client = sp.init_openai()
    assis_predict = sp.get_assistant(openai_client, os.getenv("OPENAI_API_ASSIS_PREDICCION"))
-   thread = sp.create_thread(openai_client)
 
    datos = bd.select_datos("leads")
 
    print(f"Datos a procesar {datos.shape[0]} registros")
 
-   reg = sp_c.get_data_update(datos, openai_client, assis_predict, thread)
+   reg = sp_c.get_data_update(datos, openai_client, assis_predict)
 
    print(f"Se procesaron {reg} registros")
 

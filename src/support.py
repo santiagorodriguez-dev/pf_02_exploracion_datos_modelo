@@ -47,14 +47,16 @@ def update_data(data):
     else:
         print("Registro no actualizado")
 
-def get_data_update(datos, openai_client, my_assistant, thread):
+def get_data_update(datos, openai_client, my_assistant):
 
     reg = -1
 
     for index, row in datos.iterrows():
         start = time.perf_counter()
         df1 = pd.DataFrame(row).transpose().to_markdown()
+        print(f"registro a calcular score numero: {index + 1}")
         message =f"calcula el score de: {df1}"
+        thread = sp.create_thread(openai_client)
         data = sp.process_data(openai_client, my_assistant.id, thread.id, message)
         elapsed = time.perf_counter() - start
         print(f"Tiempo de procesamiento: {elapsed:0.2f} seconds")

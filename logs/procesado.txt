@@ -1,0 +1,1307 @@
+Datos a procesar 100 registros
+registro a calcular score numero: 1
+Esperando a que se complete...run_O5zgCQAVX9FUft6O8IpYOHJV
+Esperando a que se complete...run_O5zgCQAVX9FUft6O8IpYOHJV
+Esperando a que se complete...run_O5zgCQAVX9FUft6O8IpYOHJV
+Esperando a que se complete...run_O5zgCQAVX9FUft6O8IpYOHJV
+se completó exitosamente.
+Thread ID: thread_kBreKOuTQ3RgB3hHTeZY1apA
+Run ID: run_O5zgCQAVX9FUft6O8IpYOHJV
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.08 seconds
+Registro Actualizado data=[{'index': 0, 'nombre': 'Violeta', 'apellidos': 'Téllez', 'email': 'fulgenciomontenegro@example.org', 'estudios': 'Bachillerato', 'especialidad': 'Letras', 'ciudad': 'Burgos', 'edad': 23, 'telefono': '+34 803 299 559', 'sexo': 'Mujer', 'motivo_compra': 'Demanda laboral en constante crecimiento', 'score': 65}] count=None
+registro a calcular score numero: 2
+Esperando a que se complete...run_ab0BPh4WZvUpwDBZEhA52yZg
+Esperando a que se complete...run_ab0BPh4WZvUpwDBZEhA52yZg
+Esperando a que se complete...run_ab0BPh4WZvUpwDBZEhA52yZg
+Esperando a que se complete...run_ab0BPh4WZvUpwDBZEhA52yZg
+Esperando a que se complete...run_ab0BPh4WZvUpwDBZEhA52yZg
+se completó exitosamente.
+Thread ID: thread_9e5ebly4I2ZoUWzdUfv5jqNV
+Run ID: run_ab0BPh4WZvUpwDBZEhA52yZg
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.30 seconds
+Registro Actualizado data=[{'index': 1, 'nombre': 'Maite', 'apellidos': 'Palomino', 'email': 'aitana54@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Letras', 'ciudad': 'Vizcaya', 'edad': 43, 'telefono': '+34 900 476 714', 'sexo': 'Mujer', 'motivo_compra': 'Fortalecimiento del perfil profesional frente a reclutadores', 'score': 90}] count=None
+registro a calcular score numero: 3
+Esperando a que se complete...run_FFLp6tyfxENF8FO7Y8KQm9mJ
+Esperando a que se complete...run_FFLp6tyfxENF8FO7Y8KQm9mJ
+Esperando a que se complete...run_FFLp6tyfxENF8FO7Y8KQm9mJ
+Esperando a que se complete...run_FFLp6tyfxENF8FO7Y8KQm9mJ
+Esperando a que se complete...run_FFLp6tyfxENF8FO7Y8KQm9mJ
+Esperando a que se complete...run_FFLp6tyfxENF8FO7Y8KQm9mJ
+Esperando a que se complete...run_FFLp6tyfxENF8FO7Y8KQm9mJ
+se completó exitosamente.
+Thread ID: thread_uSWTkH0qkXwpWL5oJMZePL3m
+Run ID: run_FFLp6tyfxENF8FO7Y8KQm9mJ
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 25.03 seconds
+Registro Actualizado data=[{'index': 2, 'nombre': 'Miriam', 'apellidos': 'Almagro', 'email': 'odalisramon@example.org', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Granada', 'edad': 39, 'telefono': '+34 800 601 433', 'sexo': 'Mujer', 'motivo_compra': 'Capacidad de adaptación a diferentes industrias', 'score': 80}] count=None
+registro a calcular score numero: 4
+Esperando a que se complete...run_FlGUQ5jGYhB1jnNFtVCbHvu2
+Esperando a que se complete...run_FlGUQ5jGYhB1jnNFtVCbHvu2
+Esperando a que se complete...run_FlGUQ5jGYhB1jnNFtVCbHvu2
+Esperando a que se complete...run_FlGUQ5jGYhB1jnNFtVCbHvu2
+se completó exitosamente.
+Thread ID: thread_oeyTYKqr5yKQW3nbdB9tahrV
+Run ID: run_FlGUQ5jGYhB1jnNFtVCbHvu2
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.72 seconds
+Registro Actualizado data=[{'index': 3, 'nombre': 'Almudena', 'apellidos': 'Villaverde', 'email': 'graciana78@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Informatica', 'ciudad': 'Córdoba', 'edad': 30, 'telefono': '+34 739 00 32 50', 'sexo': 'Mujer', 'motivo_compra': 'Ahorrar dinero en equipos de desarrollo para proyectos personales', 'score': 100}] count=None
+registro a calcular score numero: 5
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+Esperando a que se complete...run_2nVgFCQZvRL3sNJNxsGEE7AS
+petó.
+Thread ID: thread_47sdKxDUOcZPDcIxQmTF7889
+Run ID: run_2nVgFCQZvRL3sNJNxsGEE7AS
+Run Status: failed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 57.05 seconds
+Registro no actualizado
+registro a calcular score numero: 6
+Esperando a que se complete...run_8Ii0blxlyol6fAMyQHR7sawX
+Esperando a que se complete...run_8Ii0blxlyol6fAMyQHR7sawX
+Esperando a que se complete...run_8Ii0blxlyol6fAMyQHR7sawX
+se completó exitosamente.
+Thread ID: thread_0791378jkBRftO1eyrwZUdQh
+Run ID: run_8Ii0blxlyol6fAMyQHR7sawX
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.13 seconds
+Registro Actualizado data=[{'index': 5, 'nombre': 'Emiliana', 'apellidos': 'Quiroga', 'email': 'ramirezmaribel@example.net', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Lugo', 'edad': 33, 'telefono': '+34825 29 30 83', 'sexo': 'Hombre', 'motivo_compra': 'Versatilidad en el mercado tecnológico', 'score': 90}] count=None
+registro a calcular score numero: 7
+Esperando a que se complete...run_tM6rrjc498vuMatDjtrKkwJ5
+Esperando a que se complete...run_tM6rrjc498vuMatDjtrKkwJ5
+Esperando a que se complete...run_tM6rrjc498vuMatDjtrKkwJ5
+Esperando a que se complete...run_tM6rrjc498vuMatDjtrKkwJ5
+se completó exitosamente.
+Thread ID: thread_fQPiRVYHFGurHrHTT8fEd75n
+Run ID: run_tM6rrjc498vuMatDjtrKkwJ5
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 17.51 seconds
+Registro Actualizado data=[{'index': 6, 'nombre': 'Abigaíl', 'apellidos': 'Vázquez', 'email': 'samuel75@example.net', 'estudios': 'Licenciatura', 'especialidad': 'Informatica', 'ciudad': 'Huelva', 'edad': 19, 'telefono': '+34 886 840 725', 'sexo': 'Hombre', 'motivo_compra': 'Competitividad profesional a largo plazo', 'score': 78}] count=None
+registro a calcular score numero: 8
+Esperando a que se complete...run_NturSIXNtZc33imRYWcfmn7j
+Esperando a que se complete...run_NturSIXNtZc33imRYWcfmn7j
+Esperando a que se complete...run_NturSIXNtZc33imRYWcfmn7j
+Esperando a que se complete...run_NturSIXNtZc33imRYWcfmn7j
+Esperando a que se complete...run_NturSIXNtZc33imRYWcfmn7j
+Esperando a que se complete...run_NturSIXNtZc33imRYWcfmn7j
+se completó exitosamente.
+Thread ID: thread_ODy2lnQF8WSjWd8AoJx5vRZn
+Run ID: run_NturSIXNtZc33imRYWcfmn7j
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 22.47 seconds
+Registro Actualizado data=[{'index': 7, 'nombre': 'Iker', 'apellidos': 'Acosta', 'email': 'dalila62@example.net', 'estudios': 'Bachillerato', 'especialidad': 'Ingenieria', 'ciudad': 'Melilla', 'edad': 44, 'telefono': '+34 828457225', 'sexo': 'Mujer', 'motivo_compra': 'Competitividad profesional a largo plazo', 'score': 80}] count=None
+registro a calcular score numero: 9
+Esperando a que se complete...run_pgUvhqG1Z38TAWudekGJy3DD
+Esperando a que se complete...run_pgUvhqG1Z38TAWudekGJy3DD
+Esperando a que se complete...run_pgUvhqG1Z38TAWudekGJy3DD
+Esperando a que se complete...run_pgUvhqG1Z38TAWudekGJy3DD
+se completó exitosamente.
+Thread ID: thread_otLfJJbV1mc7lAmCC4KzvHX4
+Run ID: run_pgUvhqG1Z38TAWudekGJy3DD
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.30 seconds
+Registro Actualizado data=[{'index': 8, 'nombre': 'Ulises', 'apellidos': 'Codina', 'email': 'roque97@example.net', 'estudios': 'Bachillerato', 'especialidad': 'Informatica', 'ciudad': 'Madrid', 'edad': 29, 'telefono': '+34 901 853 524', 'sexo': 'Mujer', 'motivo_compra': 'Comprensión integral del ciclo de desarrollo de software', 'score': 85}] count=None
+registro a calcular score numero: 10
+Esperando a que se complete...run_l499EpshbvrJeDR3J3Jqxu9p
+Esperando a que se complete...run_l499EpshbvrJeDR3J3Jqxu9p
+Esperando a que se complete...run_l499EpshbvrJeDR3J3Jqxu9p
+Esperando a que se complete...run_l499EpshbvrJeDR3J3Jqxu9p
+Esperando a que se complete...run_l499EpshbvrJeDR3J3Jqxu9p
+Esperando a que se complete...run_l499EpshbvrJeDR3J3Jqxu9p
+se completó exitosamente.
+Thread ID: thread_E8RFIAFBDu2SJ3r3ssDSzqCs
+Run ID: run_l499EpshbvrJeDR3J3Jqxu9p
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 21.66 seconds
+Registro Actualizado data=[{'index': 9, 'nombre': 'Sandra', 'apellidos': 'Montserrat', 'email': 'victoranguita@example.com', 'estudios': 'Máster', 'especialidad': 'Ingenieria', 'ciudad': 'Álava', 'edad': 27, 'telefono': '+34 902 02 07 93', 'sexo': 'Hombre', 'motivo_compra': 'Aventurarse en el mundo freelance con más confianza', 'score': 75}] count=None
+registro a calcular score numero: 11
+Esperando a que se complete...run_0j69nYS52c6kDwvZEZggz6uf
+Esperando a que se complete...run_0j69nYS52c6kDwvZEZggz6uf
+Esperando a que se complete...run_0j69nYS52c6kDwvZEZggz6uf
+Esperando a que se complete...run_0j69nYS52c6kDwvZEZggz6uf
+Esperando a que se complete...run_0j69nYS52c6kDwvZEZggz6uf
+se completó exitosamente.
+Thread ID: thread_HOjnfQxyjPQjn7s1EjrLI5qC
+Run ID: run_0j69nYS52c6kDwvZEZggz6uf
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.24 seconds
+Registro Actualizado data=[{'index': 10, 'nombre': 'Aurora', 'apellidos': 'Reina', 'email': 'rtomas@example.com', 'estudios': 'Grado Medio', 'especialidad': 'Informatica', 'ciudad': 'Asturias', 'edad': 44, 'telefono': '+34884 47 87 01', 'sexo': 'Mujer', 'motivo_compra': 'Aventurarse en el mundo freelance con más confianza', 'score': 67}] count=None
+registro a calcular score numero: 12
+Esperando a que se complete...run_dHqIdXR7OCuz2d9Rf3tOKdWt
+Esperando a que se complete...run_dHqIdXR7OCuz2d9Rf3tOKdWt
+Esperando a que se complete...run_dHqIdXR7OCuz2d9Rf3tOKdWt
+Esperando a que se complete...run_dHqIdXR7OCuz2d9Rf3tOKdWt
+Esperando a que se complete...run_dHqIdXR7OCuz2d9Rf3tOKdWt
+se completó exitosamente.
+Thread ID: thread_jXqmUdWzpgUxzzW4VphK0EhC
+Run ID: run_dHqIdXR7OCuz2d9Rf3tOKdWt
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.72 seconds
+Registro Actualizado data=[{'index': 11, 'nombre': 'Lara', 'apellidos': 'Riquelme', 'email': 'vazquezeva@example.net', 'estudios': 'Grado', 'especialidad': 'Informatica', 'ciudad': 'Granada', 'edad': 21, 'telefono': '+34877992884', 'sexo': 'Hombre', 'motivo_compra': 'Ganas de crear proyectos propios de inicio a fin', 'score': 85}] count=None
+registro a calcular score numero: 13
+Esperando a que se complete...run_4Ah8b884CcaN2bqksuztdoaq
+Esperando a que se complete...run_4Ah8b884CcaN2bqksuztdoaq
+Esperando a que se complete...run_4Ah8b884CcaN2bqksuztdoaq
+Esperando a que se complete...run_4Ah8b884CcaN2bqksuztdoaq
+se completó exitosamente.
+Thread ID: thread_eHLSe0DBQkMes3BGEjlSR7gy
+Run ID: run_4Ah8b884CcaN2bqksuztdoaq
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.24 seconds
+Registro Actualizado data=[{'index': 12, 'nombre': 'Camila', 'apellidos': 'Arana', 'email': 'estradachucho@example.net', 'estudios': 'Bachillerato', 'especialidad': 'Ingenieria', 'ciudad': 'Ceuta', 'edad': 39, 'telefono': '+34987 719 406', 'sexo': 'Mujer', 'motivo_compra': 'Mayor libertad al buscar empleo remoto', 'score': 60}] count=None
+registro a calcular score numero: 14
+Esperando a que se complete...run_LXFwMGuh07RTyEOKjq3pUWTe
+Esperando a que se complete...run_LXFwMGuh07RTyEOKjq3pUWTe
+Esperando a que se complete...run_LXFwMGuh07RTyEOKjq3pUWTe
+Esperando a que se complete...run_LXFwMGuh07RTyEOKjq3pUWTe
+se completó exitosamente.
+Thread ID: thread_tGNuR3Sij5Uw922pd9UyYBlT
+Run ID: run_LXFwMGuh07RTyEOKjq3pUWTe
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.12 seconds
+Registro Actualizado data=[{'index': 13, 'nombre': 'Jesusa', 'apellidos': 'Balaguer', 'email': 'ebarcena@example.net', 'estudios': 'Grado', 'especialidad': 'Ingenieria', 'ciudad': 'Segovia', 'edad': 30, 'telefono': '+34 987 86 10 36', 'sexo': 'Mujer', 'motivo_compra': 'Mejora en la comunicación entre equipos front-end y back-end', 'score': 80}] count=None
+registro a calcular score numero: 15
+Esperando a que se complete...run_JjpbCYBaAqWIzrsnmaI7G5oh
+Esperando a que se complete...run_JjpbCYBaAqWIzrsnmaI7G5oh
+Esperando a que se complete...run_JjpbCYBaAqWIzrsnmaI7G5oh
+se completó exitosamente.
+Thread ID: thread_mDta9ML01oLifC5jd2pVEVLr
+Run ID: run_JjpbCYBaAqWIzrsnmaI7G5oh
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.12 seconds
+Registro Actualizado data=[{'index': 14, 'nombre': 'Mariano', 'apellidos': 'Vicente', 'email': 'sabina71@example.com', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'Toledo', 'edad': 24, 'telefono': '+34 983 40 86 58', 'sexo': 'Mujer', 'motivo_compra': 'Competitividad profesional a largo plazo', 'score': 90}] count=None
+registro a calcular score numero: 16
+Esperando a que se complete...run_suo0zwDkgvIrbIGr6AoTQsRE
+Esperando a que se complete...run_suo0zwDkgvIrbIGr6AoTQsRE
+Esperando a que se complete...run_suo0zwDkgvIrbIGr6AoTQsRE
+Esperando a que se complete...run_suo0zwDkgvIrbIGr6AoTQsRE
+se completó exitosamente.
+Thread ID: thread_yZ5nrR8rI3W4gTH4urZXuiR5
+Run ID: run_suo0zwDkgvIrbIGr6AoTQsRE
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.12 seconds
+Registro Actualizado data=[{'index': 15, 'nombre': 'Felipa', 'apellidos': 'Rovira', 'email': 'ojuarez@example.org', 'estudios': 'Grado', 'especialidad': 'Ingenieria', 'ciudad': 'Albacete', 'edad': 32, 'telefono': '+34 884 707 941', 'sexo': 'Hombre', 'motivo_compra': 'Preparación para transicionar hacia roles de CTO o Tech Lead', 'score': 73}] count=None
+registro a calcular score numero: 17
+Esperando a que se complete...run_ZqhSW78ly55ow4vAIG36T09C
+Esperando a que se complete...run_ZqhSW78ly55ow4vAIG36T09C
+Esperando a que se complete...run_ZqhSW78ly55ow4vAIG36T09C
+Esperando a que se complete...run_ZqhSW78ly55ow4vAIG36T09C
+Esperando a que se complete...run_ZqhSW78ly55ow4vAIG36T09C
+se completó exitosamente.
+Thread ID: thread_WrRdafp0nZWtH1kTLsJWgDHZ
+Run ID: run_ZqhSW78ly55ow4vAIG36T09C
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 19.99 seconds
+Registro Actualizado data=[{'index': 16, 'nombre': 'Roque', 'apellidos': 'Agudo', 'email': 'ruytejada@example.org', 'estudios': 'Máster', 'especialidad': 'Ingenieria', 'ciudad': 'Salamanca', 'edad': 38, 'telefono': '+34921 139 786', 'sexo': 'Hombre', 'motivo_compra': 'Mejora en la comunicación entre equipos front-end y back-end', 'score': 75}] count=None
+registro a calcular score numero: 18
+Esperando a que se complete...run_3cZ4waQ2BuoMQi4h72kV7c62
+Esperando a que se complete...run_3cZ4waQ2BuoMQi4h72kV7c62
+Esperando a que se complete...run_3cZ4waQ2BuoMQi4h72kV7c62
+Esperando a que se complete...run_3cZ4waQ2BuoMQi4h72kV7c62
+se completó exitosamente.
+Thread ID: thread_xVPPPf5rA2p3lIKEanth8Wtf
+Run ID: run_3cZ4waQ2BuoMQi4h72kV7c62
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.09 seconds
+Registro Actualizado data=[{'index': 17, 'nombre': 'Atilio', 'apellidos': 'Araujo', 'email': 'ildefonsomir@example.org', 'estudios': 'Grado Superior', 'especialidad': 'Ingenieria', 'ciudad': 'Valladolid', 'edad': 41, 'telefono': '+34 874 764 015', 'sexo': 'Hombre', 'motivo_compra': "Ser un 'todoterreno' en cualquier proyecto tecnológico", 'score': 75}] count=None
+registro a calcular score numero: 19
+Esperando a que se complete...run_oQfy2E2LN2sylEDzH0AAC3VI
+Esperando a que se complete...run_oQfy2E2LN2sylEDzH0AAC3VI
+Esperando a que se complete...run_oQfy2E2LN2sylEDzH0AAC3VI
+Esperando a que se complete...run_oQfy2E2LN2sylEDzH0AAC3VI
+Esperando a que se complete...run_oQfy2E2LN2sylEDzH0AAC3VI
+se completó exitosamente.
+Thread ID: thread_oJoq1pSG2akK6gpnNL6yN6XR
+Run ID: run_oQfy2E2LN2sylEDzH0AAC3VI
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 20.53 seconds
+Registro Actualizado data=[{'index': 18, 'nombre': 'David', 'apellidos': 'Torrent', 'email': 'graciano07@example.com', 'estudios': 'Grado Superior', 'especialidad': 'Ingenieria', 'ciudad': 'Almería', 'edad': 43, 'telefono': '+34823 48 43 73', 'sexo': 'Hombre', 'motivo_compra': "Ser un 'todoterreno' en cualquier proyecto tecnológico", 'score': 74}] count=None
+registro a calcular score numero: 20
+Esperando a que se complete...run_SqHvXHFXUKQ5JrSrRw2cxe0q
+Esperando a que se complete...run_SqHvXHFXUKQ5JrSrRw2cxe0q
+Esperando a que se complete...run_SqHvXHFXUKQ5JrSrRw2cxe0q
+Esperando a que se complete...run_SqHvXHFXUKQ5JrSrRw2cxe0q
+Esperando a que se complete...run_SqHvXHFXUKQ5JrSrRw2cxe0q
+se completó exitosamente.
+Thread ID: thread_QLOR4kzNgHmE9IuFw2cdXMAy
+Run ID: run_SqHvXHFXUKQ5JrSrRw2cxe0q
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.75 seconds
+Registro Actualizado data=[{'index': 19, 'nombre': 'Porfirio', 'apellidos': 'Lamas', 'email': 'blarrea@example.org', 'estudios': 'Grado', 'especialidad': 'Informatica', 'ciudad': 'Jaén', 'edad': 30, 'telefono': '+34 806125943', 'sexo': 'Mujer', 'motivo_compra': 'Desarrollo de habilidades multidisciplinarias', 'score': 75}] count=None
+registro a calcular score numero: 21
+Esperando a que se complete...run_2ruzramQ6VisAb59wodenRkf
+Esperando a que se complete...run_2ruzramQ6VisAb59wodenRkf
+Esperando a que se complete...run_2ruzramQ6VisAb59wodenRkf
+Esperando a que se complete...run_2ruzramQ6VisAb59wodenRkf
+se completó exitosamente.
+Thread ID: thread_59AjJfv2kmQSmABJwVmxqB0C
+Run ID: run_2ruzramQ6VisAb59wodenRkf
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.90 seconds
+Registro Actualizado data=[{'index': 20, 'nombre': 'Íngrid', 'apellidos': 'Gonzalez', 'email': 'kcorbacho@example.com', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'Ciudad', 'edad': 22, 'telefono': '+34 923 255 472', 'sexo': 'Hombre', 'motivo_compra': 'Potencial para trabajar en proyectos internacionales', 'score': 60}] count=None
+registro a calcular score numero: 22
+Esperando a que se complete...run_cISTy75qizMQOVJMvcWuilSi
+Esperando a que se complete...run_cISTy75qizMQOVJMvcWuilSi
+Esperando a que se complete...run_cISTy75qizMQOVJMvcWuilSi
+Esperando a que se complete...run_cISTy75qizMQOVJMvcWuilSi
+se completó exitosamente.
+Thread ID: thread_RMr4atc3VQTRAaOb5E7Yj7FB
+Run ID: run_cISTy75qizMQOVJMvcWuilSi
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.12 seconds
+Registro Actualizado data=[{'index': 21, 'nombre': 'Olga', 'apellidos': 'García', 'email': 'odalis20@example.com', 'estudios': 'Doctorado', 'especialidad': 'Letras', 'ciudad': 'Córdoba', 'edad': 22, 'telefono': '+34 713112320', 'sexo': 'Mujer', 'motivo_compra': "Sentirse 'el maestro Jedi' del desarrollo web", 'score': 100}] count=None
+registro a calcular score numero: 23
+Esperando a que se complete...run_JNPEc2idrywNacGEdVojJEAz
+Esperando a que se complete...run_JNPEc2idrywNacGEdVojJEAz
+Esperando a que se complete...run_JNPEc2idrywNacGEdVojJEAz
+Esperando a que se complete...run_JNPEc2idrywNacGEdVojJEAz
+Esperando a que se complete...run_JNPEc2idrywNacGEdVojJEAz
+se completó exitosamente.
+Thread ID: thread_gfDgWhTRTPV5m5ipgMt9BFs8
+Run ID: run_JNPEc2idrywNacGEdVojJEAz
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.55 seconds
+Registro Actualizado data=[{'index': 22, 'nombre': 'Fanny', 'apellidos': 'Coloma', 'email': 'jafetgordillo@example.net', 'estudios': 'Grado', 'especialidad': 'Letras', 'ciudad': 'León', 'edad': 32, 'telefono': '+34874 949 721', 'sexo': 'Hombre', 'motivo_compra': 'Disfrutar aprendiendo nuevas tecnologías constantemente', 'score': 95}] count=None
+registro a calcular score numero: 24
+Esperando a que se complete...run_X87Rs2CMacq2H8Fx3srRUQy6
+Esperando a que se complete...run_X87Rs2CMacq2H8Fx3srRUQy6
+Esperando a que se complete...run_X87Rs2CMacq2H8Fx3srRUQy6
+Esperando a que se complete...run_X87Rs2CMacq2H8Fx3srRUQy6
+se completó exitosamente.
+Thread ID: thread_oHOSdi81I7rBPb3ABVqDw9pC
+Run ID: run_X87Rs2CMacq2H8Fx3srRUQy6
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.07 seconds
+Registro Actualizado data=[{'index': 23, 'nombre': 'Georgina', 'apellidos': 'Coca', 'email': 'angelicaportero@example.org', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'Ávila', 'edad': 30, 'telefono': '+34608 202 436', 'sexo': 'Hombre', 'motivo_compra': 'Comprensión integral del ciclo de desarrollo de software', 'score': 37}] count=None
+registro a calcular score numero: 25
+Esperando a que se complete...run_xReANTRf2bZ8zRUxHwAWqHTZ
+Esperando a que se complete...run_xReANTRf2bZ8zRUxHwAWqHTZ
+Esperando a que se complete...run_xReANTRf2bZ8zRUxHwAWqHTZ
+Esperando a que se complete...run_xReANTRf2bZ8zRUxHwAWqHTZ
+Esperando a que se complete...run_xReANTRf2bZ8zRUxHwAWqHTZ
+se completó exitosamente.
+Thread ID: thread_7qpXHG8TTL5hy4pkz2XAGrxF
+Run ID: run_xReANTRf2bZ8zRUxHwAWqHTZ
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 22.36 seconds
+Registro Actualizado data=[{'index': 24, 'nombre': 'Francisco', 'apellidos': 'Cabrera', 'email': 'xalonso@example.org', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'Almería', 'edad': 44, 'telefono': '+34943371245', 'sexo': 'Hombre', 'motivo_compra': 'Demanda laboral en constante crecimiento', 'score': 70}] count=None
+registro a calcular score numero: 26
+Esperando a que se complete...run_9fB79R8vrT0j44gd70ywg7iS
+Esperando a que se complete...run_9fB79R8vrT0j44gd70ywg7iS
+Esperando a que se complete...run_9fB79R8vrT0j44gd70ywg7iS
+se completó exitosamente.
+Thread ID: thread_EBklhSPiWb4welHXLArFHXll
+Run ID: run_9fB79R8vrT0j44gd70ywg7iS
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.18 seconds
+Registro Actualizado data=[{'index': 25, 'nombre': 'Susana', 'apellidos': 'Benito', 'email': 'ibernat@example.net', 'estudios': 'Doctorado', 'especialidad': 'Ingenieria', 'ciudad': 'Pontevedra', 'edad': 33, 'telefono': '+34988684778', 'sexo': 'Hombre', 'motivo_compra': 'Orgullo personal por dominar ambos lados del desarrollo', 'score': 80}] count=None
+registro a calcular score numero: 27
+Esperando a que se complete...run_EYPuMxSPIahhpALSFQaJoHzm
+Esperando a que se complete...run_EYPuMxSPIahhpALSFQaJoHzm
+Esperando a que se complete...run_EYPuMxSPIahhpALSFQaJoHzm
+Esperando a que se complete...run_EYPuMxSPIahhpALSFQaJoHzm
+se completó exitosamente.
+Thread ID: thread_japZYjNuiLGrVm3ILpvtqHk9
+Run ID: run_EYPuMxSPIahhpALSFQaJoHzm
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.20 seconds
+Registro Actualizado data=[{'index': 26, 'nombre': 'Merche', 'apellidos': 'Mancebo', 'email': 'pereirabelen@example.org', 'estudios': 'Doctorado', 'especialidad': 'Informatica', 'ciudad': 'Ávila', 'edad': 32, 'telefono': '+34875019311', 'sexo': 'Hombre', 'motivo_compra': 'Fortalecimiento del perfil profesional frente a reclutadores', 'score': 90}] count=None
+registro a calcular score numero: 28
+Esperando a que se complete...run_WEn9QSSDxEkUQbPn84wioGp2
+Esperando a que se complete...run_WEn9QSSDxEkUQbPn84wioGp2
+Esperando a que se complete...run_WEn9QSSDxEkUQbPn84wioGp2
+se completó exitosamente.
+Thread ID: thread_o3aYq3F9v1Y3hkQxP2E3XG5L
+Run ID: run_WEn9QSSDxEkUQbPn84wioGp2
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 11.88 seconds
+Registro Actualizado data=[{'index': 27, 'nombre': 'Abigaíl', 'apellidos': 'Gilabert', 'email': 'natividadcervantes@example.net', 'estudios': 'Grado', 'especialidad': 'Letras', 'ciudad': 'Cáceres', 'edad': 21, 'telefono': '+34 922 71 66 90', 'sexo': 'Mujer', 'motivo_compra': 'Ganas de crear proyectos propios de inicio a fin', 'score': 95}] count=None
+registro a calcular score numero: 29
+Esperando a que se complete...run_4vELSUU0hjhl08zK0cw4GQYS
+Esperando a que se complete...run_4vELSUU0hjhl08zK0cw4GQYS
+Esperando a que se complete...run_4vELSUU0hjhl08zK0cw4GQYS
+Esperando a que se complete...run_4vELSUU0hjhl08zK0cw4GQYS
+Esperando a que se complete...run_4vELSUU0hjhl08zK0cw4GQYS
+se completó exitosamente.
+Thread ID: thread_BSZXtH2QpCAblEvkV0JionOc
+Run ID: run_4vELSUU0hjhl08zK0cw4GQYS
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 19.83 seconds
+Registro Actualizado data=[{'index': 28, 'nombre': 'Bonifacio', 'apellidos': 'Padilla', 'email': 'hroman@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Ingenieria', 'ciudad': 'Palencia', 'edad': 27, 'telefono': '+34883 62 00 20', 'sexo': 'Mujer', 'motivo_compra': 'Mayor libertad al buscar empleo remoto', 'score': 85}] count=None
+registro a calcular score numero: 30
+Esperando a que se complete...run_UFGKO5ZcRql6YEZrF6JaZ322
+Esperando a que se complete...run_UFGKO5ZcRql6YEZrF6JaZ322
+Esperando a que se complete...run_UFGKO5ZcRql6YEZrF6JaZ322
+Esperando a que se complete...run_UFGKO5ZcRql6YEZrF6JaZ322
+Esperando a que se complete...run_UFGKO5ZcRql6YEZrF6JaZ322
+Esperando a que se complete...run_UFGKO5ZcRql6YEZrF6JaZ322
+Esperando a que se complete...run_UFGKO5ZcRql6YEZrF6JaZ322
+se completó exitosamente.
+Thread ID: thread_X3GfA0d6rcpXWIBEA7dES5ua
+Run ID: run_UFGKO5ZcRql6YEZrF6JaZ322
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 25.34 seconds
+Registro Actualizado data=[{'index': 29, 'nombre': 'Azahara', 'apellidos': 'Marquez', 'email': 'maria-dolores11@example.net', 'estudios': 'Máster', 'especialidad': 'Informatica', 'ciudad': 'Pontevedra', 'edad': 32, 'telefono': '+34 635 831 266', 'sexo': 'Hombre', 'motivo_compra': 'Capacidad para liderar proyectos tecnológicos', 'score': 100}] count=None
+registro a calcular score numero: 31
+Esperando a que se complete...run_vXY1l1rKKfw0mTTVcwp8nH3I
+Esperando a que se complete...run_vXY1l1rKKfw0mTTVcwp8nH3I
+Esperando a que se complete...run_vXY1l1rKKfw0mTTVcwp8nH3I
+Esperando a que se complete...run_vXY1l1rKKfw0mTTVcwp8nH3I
+se completó exitosamente.
+Thread ID: thread_O7QByEMkXoPSAHr22SZm5vT2
+Run ID: run_vXY1l1rKKfw0mTTVcwp8nH3I
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.28 seconds
+Registro Actualizado data=[{'index': 30, 'nombre': 'Ramiro', 'apellidos': 'Milla', 'email': 'macariaangel@example.org', 'estudios': 'Máster', 'especialidad': 'Letras', 'ciudad': 'Segovia', 'edad': 27, 'telefono': '+34849947012', 'sexo': 'Hombre', 'motivo_compra': 'Tener más control sobre proyectos creativos', 'score': 74}] count=None
+registro a calcular score numero: 32
+Esperando a que se complete...run_XwBPPMjBiNUuqV333IT85wDP
+Esperando a que se complete...run_XwBPPMjBiNUuqV333IT85wDP
+Esperando a que se complete...run_XwBPPMjBiNUuqV333IT85wDP
+Esperando a que se complete...run_XwBPPMjBiNUuqV333IT85wDP
+Esperando a que se complete...run_XwBPPMjBiNUuqV333IT85wDP
+se completó exitosamente.
+Thread ID: thread_55PsnFKiPp6cTaudLuJaZ2sr
+Run ID: run_XwBPPMjBiNUuqV333IT85wDP
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.25 seconds
+Registro Actualizado data=[{'index': 31, 'nombre': 'Jose Francisco', 'apellidos': 'Estrada', 'email': 'manolacastello@example.net', 'estudios': 'Licenciatura', 'especialidad': 'Letras', 'ciudad': 'Cáceres', 'edad': 36, 'telefono': '+34 740 17 62 19', 'sexo': 'Hombre', 'motivo_compra': 'Por amor a los desafíos y romper barreras técnicas', 'score': 100}] count=None
+registro a calcular score numero: 33
+Esperando a que se complete...run_z9slVU1482ZRQ8VZwFdShI6Y
+Esperando a que se complete...run_z9slVU1482ZRQ8VZwFdShI6Y
+Esperando a que se complete...run_z9slVU1482ZRQ8VZwFdShI6Y
+se completó exitosamente.
+Thread ID: thread_thCBNngLQjbXAGzLfkywGiXm
+Run ID: run_z9slVU1482ZRQ8VZwFdShI6Y
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 13.60 seconds
+Registro Actualizado data=[{'index': 32, 'nombre': 'Pía', 'apellidos': 'Sastre', 'email': 'mariedelmiro@example.com', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Cuenca', 'edad': 21, 'telefono': '+34973 78 77 33', 'sexo': 'Hombre', 'motivo_compra': 'Por amor a los desafíos y romper barreras técnicas', 'score': 90}] count=None
+registro a calcular score numero: 34
+Esperando a que se complete...run_OOEexV2CGp2dXP9F1DlE6Zlo
+Esperando a que se complete...run_OOEexV2CGp2dXP9F1DlE6Zlo
+se completó exitosamente.
+Thread ID: thread_W5eQdttnW3vFtEkkX30pwsD2
+Run ID: run_OOEexV2CGp2dXP9F1DlE6Zlo
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 10.51 seconds
+Registro Actualizado data=[{'index': 33, 'nombre': 'Casemiro', 'apellidos': 'Nevado', 'email': 'chamorrofebe@example.net', 'estudios': 'Grado', 'especialidad': 'Informatica', 'ciudad': 'Granada', 'edad': 23, 'telefono': '+34878666498', 'sexo': 'Hombre', 'motivo_compra': 'Tener más control sobre proyectos creativos', 'score': 74}] count=None
+registro a calcular score numero: 35
+Esperando a que se complete...run_MWl0EW1JiC2qaGYH569yNpij
+Esperando a que se complete...run_MWl0EW1JiC2qaGYH569yNpij
+Esperando a que se complete...run_MWl0EW1JiC2qaGYH569yNpij
+Esperando a que se complete...run_MWl0EW1JiC2qaGYH569yNpij
+se completó exitosamente.
+Thread ID: thread_JaZSFR1LHkuk5YMD5JjOcPTT
+Run ID: run_MWl0EW1JiC2qaGYH569yNpij
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.39 seconds
+Registro Actualizado data=[{'index': 34, 'nombre': 'Yéssica', 'apellidos': 'Canet', 'email': 'posadaleandro@example.net', 'estudios': 'Doctorado', 'especialidad': 'Letras', 'ciudad': 'Vizcaya', 'edad': 40, 'telefono': '+34943 76 56 69', 'sexo': 'Mujer', 'motivo_compra': 'Ganas de crear proyectos propios de inicio a fin', 'score': 86}] count=None
+registro a calcular score numero: 36
+Esperando a que se complete...run_79y3zaEYpAfdNq4OcBfMqxCl
+Esperando a que se complete...run_79y3zaEYpAfdNq4OcBfMqxCl
+Esperando a que se complete...run_79y3zaEYpAfdNq4OcBfMqxCl
+Esperando a que se complete...run_79y3zaEYpAfdNq4OcBfMqxCl
+Esperando a que se complete...run_79y3zaEYpAfdNq4OcBfMqxCl
+se completó exitosamente.
+Thread ID: thread_jHXGmzQ0sgQA7KBzD8MFAYrG
+Run ID: run_79y3zaEYpAfdNq4OcBfMqxCl
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.15 seconds
+Registro Actualizado data=[{'index': 35, 'nombre': 'Cruz', 'apellidos': 'Checa', 'email': 'graciana42@example.org', 'estudios': 'Doctorado', 'especialidad': 'Ingenieria', 'ciudad': 'Pontevedra', 'edad': 36, 'telefono': '+34876 847 095', 'sexo': 'Hombre', 'motivo_compra': 'Curiosidad por aprender de todo un poco', 'score': 79}] count=None
+registro a calcular score numero: 37
+Esperando a que se complete...run_Eee59D9NltTWIFc1FnyPjIUS
+Esperando a que se complete...run_Eee59D9NltTWIFc1FnyPjIUS
+Esperando a que se complete...run_Eee59D9NltTWIFc1FnyPjIUS
+Esperando a que se complete...run_Eee59D9NltTWIFc1FnyPjIUS
+se completó exitosamente.
+Thread ID: thread_T0dVLaWJELxiXbGGPYfZTbZm
+Run ID: run_Eee59D9NltTWIFc1FnyPjIUS
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.38 seconds
+Registro Actualizado data=[{'index': 36, 'nombre': 'Consuelo', 'apellidos': 'Luque', 'email': 'olivaariel@example.net', 'estudios': 'Doctorado', 'especialidad': 'Ingenieria', 'ciudad': 'Segovia', 'edad': 38, 'telefono': '+34937674481', 'sexo': 'Hombre', 'motivo_compra': 'Alta demanda en startups y empresas consolidadas', 'score': 81}] count=None
+registro a calcular score numero: 38
+Esperando a que se complete...run_sMsHB9euuI6Rw8oU2xRlOs3T
+Esperando a que se complete...run_sMsHB9euuI6Rw8oU2xRlOs3T
+Esperando a que se complete...run_sMsHB9euuI6Rw8oU2xRlOs3T
+se completó exitosamente.
+Thread ID: thread_Vks3xHqVPYCaKL8HQLGygXEy
+Run ID: run_sMsHB9euuI6Rw8oU2xRlOs3T
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 11.97 seconds
+Registro Actualizado data=[{'index': 37, 'nombre': 'Azahar', 'apellidos': 'Moraleda', 'email': 'maricela52@example.net', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'La Rioja', 'edad': 33, 'telefono': '+34843 694 918', 'sexo': 'Hombre', 'motivo_compra': 'Curiosidad por aprender de todo un poco', 'score': 85}] count=None
+registro a calcular score numero: 39
+Esperando a que se complete...run_5QRDa12G3AUx8XQXdqfiYRgY
+Esperando a que se complete...run_5QRDa12G3AUx8XQXdqfiYRgY
+Esperando a que se complete...run_5QRDa12G3AUx8XQXdqfiYRgY
+Esperando a que se complete...run_5QRDa12G3AUx8XQXdqfiYRgY
+se completó exitosamente.
+Thread ID: thread_DIiilRYZIbfnbSg6PLB4wUwM
+Run ID: run_5QRDa12G3AUx8XQXdqfiYRgY
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.87 seconds
+Registro Actualizado data=[{'index': 38, 'nombre': 'Anita', 'apellidos': 'Rojas', 'email': 'irma03@example.net', 'estudios': 'Bachillerato', 'especialidad': 'Ingenieria', 'ciudad': 'Zaragoza', 'edad': 41, 'telefono': '+34988 181 302', 'sexo': 'Hombre', 'motivo_compra': 'Demanda laboral en constante crecimiento', 'score': 75}] count=None
+registro a calcular score numero: 40
+Esperando a que se complete...run_wdsTn7wFfuFTqANwf4fk1Bjr
+Esperando a que se complete...run_wdsTn7wFfuFTqANwf4fk1Bjr
+Esperando a que se complete...run_wdsTn7wFfuFTqANwf4fk1Bjr
+Esperando a que se complete...run_wdsTn7wFfuFTqANwf4fk1Bjr
+se completó exitosamente.
+Thread ID: thread_1nV79lxKDkhBbTggbWjjoVVf
+Run ID: run_wdsTn7wFfuFTqANwf4fk1Bjr
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.90 seconds
+Registro Actualizado data=[{'index': 39, 'nombre': 'Celestina', 'apellidos': 'Portillo', 'email': 'pereraangela@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Letras', 'ciudad': 'Vizcaya', 'edad': 20, 'telefono': '+34886 566 242', 'sexo': 'Mujer', 'motivo_compra': 'Impresionar a amigos o colegas con soluciones completas', 'score': 56}] count=None
+registro a calcular score numero: 41
+Esperando a que se complete...run_SqdlrJPOyPLi0f2IkDURUMUK
+Esperando a que se complete...run_SqdlrJPOyPLi0f2IkDURUMUK
+Esperando a que se complete...run_SqdlrJPOyPLi0f2IkDURUMUK
+se completó exitosamente.
+Thread ID: thread_hmXlLXVhBOuTcakZT7duql1F
+Run ID: run_SqdlrJPOyPLi0f2IkDURUMUK
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.59 seconds
+Registro Actualizado data=[{'index': 40, 'nombre': 'Ricardo', 'apellidos': 'Serra', 'email': 'rufinobuendia@example.org', 'estudios': 'Grado Medio', 'especialidad': 'Letras', 'ciudad': 'Teruel', 'edad': 36, 'telefono': '+34886 707 472', 'sexo': 'Hombre', 'motivo_compra': 'Evitar la frustración de esperar a que otro termine una tarea', 'score': 59}] count=None
+registro a calcular score numero: 42
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+Esperando a que se complete...run_0TuSdFWWCcqy2XGNckGb1iSV
+se completó exitosamente.
+Thread ID: thread_3EzGNYrp7bo6FSVkLkFm52Tj
+Run ID: run_0TuSdFWWCcqy2XGNckGb1iSV
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 38.13 seconds
+Registro Actualizado data=[{'index': 41, 'nombre': 'Buenaventura', 'apellidos': 'Diez', 'email': 'tcruz@example.net', 'estudios': 'Grado', 'especialidad': 'Ingenieria', 'ciudad': 'Jaén', 'edad': 20, 'telefono': '+34975 40 71 44', 'sexo': 'Mujer', 'motivo_compra': 'Explorar la satisfacción de construir algo desde cero', 'score': 70}] count=None
+registro a calcular score numero: 43
+Esperando a que se complete...run_xRKYjkqxfexaDGkdQyQbIrGh
+Esperando a que se complete...run_xRKYjkqxfexaDGkdQyQbIrGh
+Esperando a que se complete...run_xRKYjkqxfexaDGkdQyQbIrGh
+Esperando a que se complete...run_xRKYjkqxfexaDGkdQyQbIrGh
+Esperando a que se complete...run_xRKYjkqxfexaDGkdQyQbIrGh
+Esperando a que se complete...run_xRKYjkqxfexaDGkdQyQbIrGh
+Esperando a que se complete...run_xRKYjkqxfexaDGkdQyQbIrGh
+se completó exitosamente.
+Thread ID: thread_CBPCv22Tfhtom1w6ZIaMTk6S
+Run ID: run_xRKYjkqxfexaDGkdQyQbIrGh
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 24.90 seconds
+Registro Actualizado data=[{'index': 42, 'nombre': 'Ciriaco', 'apellidos': 'León', 'email': 'spomares@example.org', 'estudios': 'Máster', 'especialidad': 'Letras', 'ciudad': 'Albacete', 'edad': 43, 'telefono': '+34 886 403 599', 'sexo': 'Hombre', 'motivo_compra': 'Evitar la frustración de esperar a que otro termine una tarea', 'score': 100}] count=None
+registro a calcular score numero: 44
+Esperando a que se complete...run_0OWlerGJDDyuPIFzfCYhScTW
+Esperando a que se complete...run_0OWlerGJDDyuPIFzfCYhScTW
+Esperando a que se complete...run_0OWlerGJDDyuPIFzfCYhScTW
+se completó exitosamente.
+Thread ID: thread_QAbuZGPLEwwsTybAZ32a300p
+Run ID: run_0OWlerGJDDyuPIFzfCYhScTW
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.71 seconds
+Registro Actualizado data=[{'index': 43, 'nombre': 'Asdrubal', 'apellidos': 'Pedro', 'email': 'valentinaecheverria@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Ingenieria', 'ciudad': 'La Rioja', 'edad': 21, 'telefono': '+34 831237149', 'sexo': 'Hombre', 'motivo_compra': 'Ganas de crear proyectos propios de inicio a fin', 'score': 64}] count=None
+registro a calcular score numero: 45
+Esperando a que se complete...run_rm4DwH2UrjtOl5l6KwFhv7xY
+Esperando a que se complete...run_rm4DwH2UrjtOl5l6KwFhv7xY
+Esperando a que se complete...run_rm4DwH2UrjtOl5l6KwFhv7xY
+Esperando a que se complete...run_rm4DwH2UrjtOl5l6KwFhv7xY
+se completó exitosamente.
+Thread ID: thread_oIksRSfxovo9pyBoPKjG8YRq
+Run ID: run_rm4DwH2UrjtOl5l6KwFhv7xY
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.00 seconds
+Registro Actualizado data=[{'index': 44, 'nombre': 'Fabián', 'apellidos': 'Coca', 'email': 'eligioesteban@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Letras', 'ciudad': 'Asturias', 'edad': 36, 'telefono': '+34 983441342', 'sexo': 'Mujer', 'motivo_compra': 'Acceso a roles técnicos y estratégicos', 'score': 20}] count=None
+registro a calcular score numero: 46
+Esperando a que se complete...run_4F5O6vxOmalMWzqNJuhLd9Tt
+Esperando a que se complete...run_4F5O6vxOmalMWzqNJuhLd9Tt
+Esperando a que se complete...run_4F5O6vxOmalMWzqNJuhLd9Tt
+Esperando a que se complete...run_4F5O6vxOmalMWzqNJuhLd9Tt
+Esperando a que se complete...run_4F5O6vxOmalMWzqNJuhLd9Tt
+Esperando a que se complete...run_4F5O6vxOmalMWzqNJuhLd9Tt
+se completó exitosamente.
+Thread ID: thread_OZNeUf87rgB3pKZ9LgLqEFcB
+Run ID: run_4F5O6vxOmalMWzqNJuhLd9Tt
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 21.75 seconds
+Registro Actualizado data=[{'index': 45, 'nombre': 'Amparo', 'apellidos': 'Rocha', 'email': 'anselmomascaro@example.org', 'estudios': 'Grado Superior', 'especialidad': 'Letras', 'ciudad': 'Valladolid', 'edad': 31, 'telefono': '+34800 17 00 61', 'sexo': 'Hombre', 'motivo_compra': 'Ahorrar dinero en equipos de desarrollo para proyectos personales', 'score': 66}] count=None
+registro a calcular score numero: 47
+Esperando a que se complete...run_PsMnRzKWds16xo9lQ4aqxtTa
+Esperando a que se complete...run_PsMnRzKWds16xo9lQ4aqxtTa
+Esperando a que se complete...run_PsMnRzKWds16xo9lQ4aqxtTa
+Esperando a que se complete...run_PsMnRzKWds16xo9lQ4aqxtTa
+Esperando a que se complete...run_PsMnRzKWds16xo9lQ4aqxtTa
+se completó exitosamente.
+Thread ID: thread_IkD9vseqqlSYnLAEdFf1E8os
+Run ID: run_PsMnRzKWds16xo9lQ4aqxtTa
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.34 seconds
+Registro Actualizado data=[{'index': 46, 'nombre': 'Rosa', 'apellidos': 'Porcel', 'email': 'zorrillaflorentina@example.org', 'estudios': 'Doctorado', 'especialidad': 'Informatica', 'ciudad': 'Tarragona', 'edad': 36, 'telefono': '+34 962910851', 'sexo': 'Mujer', 'motivo_compra': 'Evitar la frustración de esperar a que otro termine una tarea', 'score': 100}] count=None
+registro a calcular score numero: 48
+Esperando a que se complete...run_x9UAmGmGMP8yJtpQY5x96rB1
+Esperando a que se complete...run_x9UAmGmGMP8yJtpQY5x96rB1
+Esperando a que se complete...run_x9UAmGmGMP8yJtpQY5x96rB1
+Esperando a que se complete...run_x9UAmGmGMP8yJtpQY5x96rB1
+se completó exitosamente.
+Thread ID: thread_W83hWubwK7s4tya0tp4ArPC6
+Run ID: run_x9UAmGmGMP8yJtpQY5x96rB1
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.01 seconds
+Registro Actualizado data=[{'index': 47, 'nombre': 'Leopoldo', 'apellidos': 'Falcón', 'email': 'lzamorano@example.com', 'estudios': 'Grado', 'especialidad': 'Letras', 'ciudad': 'Barcelona', 'edad': 24, 'telefono': '+34 926 49 97 00', 'sexo': 'Mujer', 'motivo_compra': 'Demanda laboral en constante crecimiento', 'score': 85}] count=None
+registro a calcular score numero: 49
+Esperando a que se complete...run_TIVhDE5I2Ul3UCB0pMMuGrKs
+Esperando a que se complete...run_TIVhDE5I2Ul3UCB0pMMuGrKs
+Esperando a que se complete...run_TIVhDE5I2Ul3UCB0pMMuGrKs
+Esperando a que se complete...run_TIVhDE5I2Ul3UCB0pMMuGrKs
+se completó exitosamente.
+Thread ID: thread_d35Fko4qK0cOjmzQR2Ko0cfZ
+Run ID: run_TIVhDE5I2Ul3UCB0pMMuGrKs
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.13 seconds
+Registro Actualizado data=[{'index': 48, 'nombre': 'Carlota', 'apellidos': 'Sanz', 'email': 'molinsrosalina@example.com', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'Valladolid', 'edad': 34, 'telefono': '+34 977 82 57 77', 'sexo': 'Hombre', 'motivo_compra': 'Desarrollo de habilidades multidisciplinarias', 'score': 64}] count=None
+registro a calcular score numero: 50
+Esperando a que se complete...run_Kc9SKqqPH08pgtz2LzMs4OIe
+Esperando a que se complete...run_Kc9SKqqPH08pgtz2LzMs4OIe
+Esperando a que se complete...run_Kc9SKqqPH08pgtz2LzMs4OIe
+se completó exitosamente.
+Thread ID: thread_yXix4QXHmyfTNwg8B6SQPIId
+Run ID: run_Kc9SKqqPH08pgtz2LzMs4OIe
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.01 seconds
+Registro Actualizado data=[{'index': 49, 'nombre': 'Viviana', 'apellidos': 'Herranz', 'email': 'aguilerafabiola@example.net', 'estudios': 'Licenciatura', 'especialidad': 'Informatica', 'ciudad': 'León', 'edad': 25, 'telefono': '+34 973 30 42 07', 'sexo': 'Mujer', 'motivo_compra': 'Mayor libertad al buscar empleo remoto', 'score': 71}] count=None
+registro a calcular score numero: 51
+Esperando a que se complete...run_jRCZqOxbmfzW51FcTCWjlqsl
+Esperando a que se complete...run_jRCZqOxbmfzW51FcTCWjlqsl
+Esperando a que se complete...run_jRCZqOxbmfzW51FcTCWjlqsl
+Esperando a que se complete...run_jRCZqOxbmfzW51FcTCWjlqsl
+Esperando a que se complete...run_jRCZqOxbmfzW51FcTCWjlqsl
+se completó exitosamente.
+Thread ID: thread_vtSz243IBJDPfyx6L9yfhAmP
+Run ID: run_jRCZqOxbmfzW51FcTCWjlqsl
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.44 seconds
+Registro Actualizado data=[{'index': 50, 'nombre': 'Marisa', 'apellidos': 'Carballo', 'email': 'valenciazoraida@example.com', 'estudios': 'Eso', 'especialidad': 'Ingenieria', 'ciudad': 'Valencia', 'edad': 44, 'telefono': '+34922654616', 'sexo': 'Mujer', 'motivo_compra': 'Disfrutar aprendiendo nuevas tecnologías constantemente', 'score': 69}] count=None
+registro a calcular score numero: 52
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Esperando a que se complete...run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+se completó exitosamente.
+Thread ID: thread_7SXmISUkMwHHoKjqSdhr1aEM
+Run ID: run_KFyoHyDF3ZvPRceE6Sw7Eo0V
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 61.15 seconds
+Registro Actualizado data=[{'index': 51, 'nombre': 'Segismundo', 'apellidos': 'Vega', 'email': 'paolabermudez@example.net', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Valladolid', 'edad': 35, 'telefono': '+34 841372711', 'sexo': 'Hombre', 'motivo_compra': 'Orgullo personal por dominar ambos lados del desarrollo', 'score': 100}] count=None
+registro a calcular score numero: 53
+Esperando a que se complete...run_jQmqdvtCxCt54M7VLHQOkk3p
+Esperando a que se complete...run_jQmqdvtCxCt54M7VLHQOkk3p
+Esperando a que se complete...run_jQmqdvtCxCt54M7VLHQOkk3p
+Esperando a que se complete...run_jQmqdvtCxCt54M7VLHQOkk3p
+se completó exitosamente.
+Thread ID: thread_YhPJumNvnTVxyYXqZIrD7qGx
+Run ID: run_jQmqdvtCxCt54M7VLHQOkk3p
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.16 seconds
+Registro Actualizado data=[{'index': 52, 'nombre': 'Alfredo', 'apellidos': 'Arroyo', 'email': 'leandra61@example.org', 'estudios': 'Grado Superior', 'especialidad': 'Letras', 'ciudad': 'Teruel', 'edad': 25, 'telefono': '+34 927518900', 'sexo': 'Mujer', 'motivo_compra': 'Mayor libertad al buscar empleo remoto', 'score': 60}] count=None
+registro a calcular score numero: 54
+Esperando a que se complete...run_ZOx9k0j60q76rC8QFmSaPovD
+Esperando a que se complete...run_ZOx9k0j60q76rC8QFmSaPovD
+Esperando a que se complete...run_ZOx9k0j60q76rC8QFmSaPovD
+Esperando a que se complete...run_ZOx9k0j60q76rC8QFmSaPovD
+Esperando a que se complete...run_ZOx9k0j60q76rC8QFmSaPovD
+Esperando a que se complete...run_ZOx9k0j60q76rC8QFmSaPovD
+se completó exitosamente.
+Thread ID: thread_Xy5tSwOFf4NACIMeeNJioeVE
+Run ID: run_ZOx9k0j60q76rC8QFmSaPovD
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 22.22 seconds
+Registro Actualizado data=[{'index': 53, 'nombre': 'Evelia', 'apellidos': 'Adán', 'email': 'fsalcedo@example.com', 'estudios': 'Grado', 'especialidad': 'Informatica', 'ciudad': 'Toledo', 'edad': 19, 'telefono': '+34845282317', 'sexo': 'Mujer', 'motivo_compra': 'Potencial para trabajar en proyectos internacionales', 'score': 73}] count=None
+registro a calcular score numero: 55
+Esperando a que se complete...run_LvvqKL6W7JwBBvUAwFoA3T2O
+Esperando a que se complete...run_LvvqKL6W7JwBBvUAwFoA3T2O
+Esperando a que se complete...run_LvvqKL6W7JwBBvUAwFoA3T2O
+Esperando a que se complete...run_LvvqKL6W7JwBBvUAwFoA3T2O
+Esperando a que se complete...run_LvvqKL6W7JwBBvUAwFoA3T2O
+se completó exitosamente.
+Thread ID: thread_944RBeb315yonq0xYB0DYXrP
+Run ID: run_LvvqKL6W7JwBBvUAwFoA3T2O
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 19.44 seconds
+Registro Actualizado data=[{'index': 54, 'nombre': 'Carmela', 'apellidos': 'Mir', 'email': 'salvador08@example.com', 'estudios': 'Eso', 'especialidad': 'Informatica', 'ciudad': 'Valladolid', 'edad': 33, 'telefono': '+34 944 529 523', 'sexo': 'Mujer', 'motivo_compra': 'Evitar la frustración de esperar a que otro termine una tarea', 'score': 28}] count=None
+registro a calcular score numero: 56
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Esperando a que se complete...run_UhBDT8rJ2SRj9mSMnRKMQD0G
+se completó exitosamente.
+Thread ID: thread_SqKz38uLa563OP9SpxTPpGLb
+Run ID: run_UhBDT8rJ2SRj9mSMnRKMQD0G
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 35.03 seconds
+Registro Actualizado data=[{'index': 55, 'nombre': 'Renato', 'apellidos': 'Linares', 'email': 'barriosestefania@example.com', 'estudios': 'Eso', 'especialidad': 'Informatica', 'ciudad': 'Badajoz', 'edad': 42, 'telefono': '+34947176132', 'sexo': 'Mujer', 'motivo_compra': 'Mejora en la comunicación entre equipos front-end y back-end', 'score': 76}] count=None
+registro a calcular score numero: 57
+Esperando a que se complete...run_hdpnjlkkgHl6JDv98yLNdXXh
+Esperando a que se complete...run_hdpnjlkkgHl6JDv98yLNdXXh
+Esperando a que se complete...run_hdpnjlkkgHl6JDv98yLNdXXh
+Esperando a que se complete...run_hdpnjlkkgHl6JDv98yLNdXXh
+se completó exitosamente.
+Thread ID: thread_7aNPUWIPC64guQu6ClBXJ5JB
+Run ID: run_hdpnjlkkgHl6JDv98yLNdXXh
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 17.69 seconds
+Registro Actualizado data=[{'index': 56, 'nombre': 'Jose Luis', 'apellidos': 'Esteban', 'email': 'nnebot@example.com', 'estudios': 'Eso', 'especialidad': 'Ingenieria', 'ciudad': 'Valencia', 'edad': 31, 'telefono': '+34 820 177 648', 'sexo': 'Hombre', 'motivo_compra': 'Mejora en la comunicación entre equipos front-end y back-end', 'score': 69}] count=None
+registro a calcular score numero: 58
+Esperando a que se complete...run_HSD8hzpOsBITJXnP0MNMW0Jz
+Esperando a que se complete...run_HSD8hzpOsBITJXnP0MNMW0Jz
+Esperando a que se complete...run_HSD8hzpOsBITJXnP0MNMW0Jz
+Esperando a que se complete...run_HSD8hzpOsBITJXnP0MNMW0Jz
+Esperando a que se complete...run_HSD8hzpOsBITJXnP0MNMW0Jz
+se completó exitosamente.
+Thread ID: thread_mzIaI1OhxvjlczXK3im5TFET
+Run ID: run_HSD8hzpOsBITJXnP0MNMW0Jz
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 21.13 seconds
+Registro Actualizado data=[{'index': 57, 'nombre': 'Roxana', 'apellidos': 'Velasco', 'email': 'rroma@example.com', 'estudios': 'Grado Medio', 'especialidad': 'Letras', 'ciudad': 'Baleares', 'edad': 18, 'telefono': '+34732 459 547', 'sexo': 'Hombre', 'motivo_compra': 'Ampliar las posibilidades de networking con otros desarrolladores', 'score': 100}] count=None
+registro a calcular score numero: 59
+Esperando a que se complete...run_k1LNXfH5O2XG3KyFelsqJC7s
+Esperando a que se complete...run_k1LNXfH5O2XG3KyFelsqJC7s
+Esperando a que se complete...run_k1LNXfH5O2XG3KyFelsqJC7s
+Esperando a que se complete...run_k1LNXfH5O2XG3KyFelsqJC7s
+Esperando a que se complete...run_k1LNXfH5O2XG3KyFelsqJC7s
+se completó exitosamente.
+Thread ID: thread_kQ27iOVTH84KR7gnqAlXOikB
+Run ID: run_k1LNXfH5O2XG3KyFelsqJC7s
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.46 seconds
+Registro Actualizado data=[{'index': 58, 'nombre': 'Felicidad', 'apellidos': 'Peña', 'email': 'rodriguezalba@example.net', 'estudios': 'Grado', 'especialidad': 'Letras', 'ciudad': 'La Coruña', 'edad': 36, 'telefono': '+34887 816 619', 'sexo': 'Mujer', 'motivo_compra': 'Potencial para trabajar en proyectos internacionales', 'score': 74}] count=None
+registro a calcular score numero: 60
+Esperando a que se complete...run_5xATWjkMDZ0WvYPFkogsX8tK
+Esperando a que se complete...run_5xATWjkMDZ0WvYPFkogsX8tK
+Esperando a que se complete...run_5xATWjkMDZ0WvYPFkogsX8tK
+Esperando a que se complete...run_5xATWjkMDZ0WvYPFkogsX8tK
+se completó exitosamente.
+Thread ID: thread_fT7Fpz9v0Bs4IECdc61JPidE
+Run ID: run_5xATWjkMDZ0WvYPFkogsX8tK
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.64 seconds
+Registro Actualizado data=[{'index': 59, 'nombre': 'Cirino', 'apellidos': 'Comas', 'email': 'juan-carlossanabria@example.org', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Teruel', 'edad': 35, 'telefono': '+34 924403582', 'sexo': 'Mujer', 'motivo_compra': 'Impresionar a amigos o colegas con soluciones completas', 'score': 69}] count=None
+registro a calcular score numero: 61
+Esperando a que se complete...run_8CrgefBPctP1vTnx59DUsPDp
+Esperando a que se complete...run_8CrgefBPctP1vTnx59DUsPDp
+Esperando a que se complete...run_8CrgefBPctP1vTnx59DUsPDp
+Esperando a que se complete...run_8CrgefBPctP1vTnx59DUsPDp
+se completó exitosamente.
+Thread ID: thread_5FP1SUbiDEQyd09uPlZlsanU
+Run ID: run_8CrgefBPctP1vTnx59DUsPDp
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.37 seconds
+Registro Actualizado data=[{'index': 60, 'nombre': 'Emperatriz', 'apellidos': 'Cervera', 'email': 'florinacamino@example.com', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'La Rioja', 'edad': 38, 'telefono': '+34920 35 61 28', 'sexo': 'Hombre', 'motivo_compra': 'Desarrollo de habilidades multidisciplinarias', 'score': 70}] count=None
+registro a calcular score numero: 62
+Esperando a que se complete...run_MYsnEyDR1GRnsZ4Qso1gFue1
+Esperando a que se complete...run_MYsnEyDR1GRnsZ4Qso1gFue1
+Esperando a que se complete...run_MYsnEyDR1GRnsZ4Qso1gFue1
+se completó exitosamente.
+Thread ID: thread_s8g7PzELvzHcCwL7eOrVcct0
+Run ID: run_MYsnEyDR1GRnsZ4Qso1gFue1
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 11.60 seconds
+Registro Actualizado data=[{'index': 61, 'nombre': 'Guillermo', 'apellidos': 'Tomé', 'email': 'belmontesamu@example.com', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Ciudad', 'edad': 26, 'telefono': '+34880 79 20 79', 'sexo': 'Hombre', 'motivo_compra': 'Capacidad de adaptación a diferentes industrias', 'score': 74}] count=None
+registro a calcular score numero: 63
+Esperando a que se complete...run_L8mh3Yl5hgpamGZ2OZfEh50G
+Esperando a que se complete...run_L8mh3Yl5hgpamGZ2OZfEh50G
+Esperando a que se complete...run_L8mh3Yl5hgpamGZ2OZfEh50G
+Esperando a que se complete...run_L8mh3Yl5hgpamGZ2OZfEh50G
+se completó exitosamente.
+Thread ID: thread_b9fs9u6hnad6cJ13QbItsmnm
+Run ID: run_L8mh3Yl5hgpamGZ2OZfEh50G
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.03 seconds
+Registro Actualizado data=[{'index': 62, 'nombre': 'Lupe', 'apellidos': 'Sandoval', 'email': 'ximenatellez@example.com', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Ceuta', 'edad': 44, 'telefono': '+34 743 00 63 93', 'sexo': 'Mujer', 'motivo_compra': 'Desarrollar videojuegos o apps personales', 'score': 74}] count=None
+registro a calcular score numero: 64
+Esperando a que se complete...run_yAaA373O1Xp5mZgZUVm6byNx
+Esperando a que se complete...run_yAaA373O1Xp5mZgZUVm6byNx
+Esperando a que se complete...run_yAaA373O1Xp5mZgZUVm6byNx
+Esperando a que se complete...run_yAaA373O1Xp5mZgZUVm6byNx
+Esperando a que se complete...run_yAaA373O1Xp5mZgZUVm6byNx
+Esperando a que se complete...run_yAaA373O1Xp5mZgZUVm6byNx
+Esperando a que se complete...run_yAaA373O1Xp5mZgZUVm6byNx
+se completó exitosamente.
+Thread ID: thread_UsErDZMSORyhPS4OU4nUW3xa
+Run ID: run_yAaA373O1Xp5mZgZUVm6byNx
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 24.99 seconds
+Registro Actualizado data=[{'index': 63, 'nombre': 'Flor', 'apellidos': 'Alberola', 'email': 'oromero@example.org', 'estudios': 'Grado', 'especialidad': 'Letras', 'ciudad': 'Alicante', 'edad': 22, 'telefono': '+34978548626', 'sexo': 'Mujer', 'motivo_compra': 'Capacidad para liderar proyectos tecnológicos', 'score': 70}] count=None
+registro a calcular score numero: 65
+Esperando a que se complete...run_rozoN8pCGAEs6mSFBTdYJMMG
+Esperando a que se complete...run_rozoN8pCGAEs6mSFBTdYJMMG
+Esperando a que se complete...run_rozoN8pCGAEs6mSFBTdYJMMG
+Esperando a que se complete...run_rozoN8pCGAEs6mSFBTdYJMMG
+se completó exitosamente.
+Thread ID: thread_PYxjQinYrI8nWiKhX2FVvOhM
+Run ID: run_rozoN8pCGAEs6mSFBTdYJMMG
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.07 seconds
+Registro Actualizado data=[{'index': 64, 'nombre': 'Jordana', 'apellidos': 'Campos', 'email': 'bernardita75@example.org', 'estudios': 'Grado', 'especialidad': 'Ingenieria', 'ciudad': 'Badajoz', 'edad': 28, 'telefono': '+34 820 619 665', 'sexo': 'Hombre', 'motivo_compra': 'Mayor libertad al buscar empleo remoto', 'score': 66}] count=None
+registro a calcular score numero: 66
+Esperando a que se complete...run_6EUzSuGcyzMeKmf8BTjLJhVn
+Esperando a que se complete...run_6EUzSuGcyzMeKmf8BTjLJhVn
+Esperando a que se complete...run_6EUzSuGcyzMeKmf8BTjLJhVn
+Esperando a que se complete...run_6EUzSuGcyzMeKmf8BTjLJhVn
+se completó exitosamente.
+Thread ID: thread_yZOSQAuwBRo8GODStXyudERT
+Run ID: run_6EUzSuGcyzMeKmf8BTjLJhVn
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.92 seconds
+Registro Actualizado data=[{'index': 65, 'nombre': 'Modesto', 'apellidos': 'Somoza', 'email': 'jordiizaguirre@example.org', 'estudios': 'Grado Superior', 'especialidad': 'Informatica', 'ciudad': 'Salamanca', 'edad': 44, 'telefono': '+34 922557083', 'sexo': 'Hombre', 'motivo_compra': 'Contribución al avance tecnológico de las empresas', 'score': 85}] count=None
+registro a calcular score numero: 67
+Esperando a que se complete...run_1d2lgddjxF16ZTcK739j8N05
+Esperando a que se complete...run_1d2lgddjxF16ZTcK739j8N05
+Esperando a que se complete...run_1d2lgddjxF16ZTcK739j8N05
+Esperando a que se complete...run_1d2lgddjxF16ZTcK739j8N05
+se completó exitosamente.
+Thread ID: thread_Pn4T6ZAGa5geegXoq4mQs91J
+Run ID: run_1d2lgddjxF16ZTcK739j8N05
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.87 seconds
+Registro Actualizado data=[{'index': 66, 'nombre': 'Martina', 'apellidos': 'Valcárcel', 'email': 'marcianoconde@example.com', 'estudios': 'Grado Superior', 'especialidad': 'Letras', 'ciudad': 'Huesca', 'edad': 43, 'telefono': '+34924 45 25 10', 'sexo': 'Mujer', 'motivo_compra': "Ser un 'todoterreno' en cualquier proyecto tecnológico", 'score': 67}] count=None
+registro a calcular score numero: 68
+Esperando a que se complete...run_0ONKvP09KXDHY3SFwReXQXJQ
+Esperando a que se complete...run_0ONKvP09KXDHY3SFwReXQXJQ
+Esperando a que se complete...run_0ONKvP09KXDHY3SFwReXQXJQ
+Esperando a que se complete...run_0ONKvP09KXDHY3SFwReXQXJQ
+se completó exitosamente.
+Thread ID: thread_F3MHk6jomjHJ9UU0qSMR6ZV1
+Run ID: run_0ONKvP09KXDHY3SFwReXQXJQ
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.15 seconds
+Registro Actualizado data=[{'index': 67, 'nombre': 'Armando', 'apellidos': 'Piñeiro', 'email': 'cristian52@example.org', 'estudios': 'Grado', 'especialidad': 'Letras', 'ciudad': 'Castellón', 'edad': 40, 'telefono': '+34 941 638 860', 'sexo': 'Hombre', 'motivo_compra': 'Incremento en las oportunidades salariales', 'score': 80}] count=None
+registro a calcular score numero: 69
+Esperando a que se complete...run_OGATN7z4Xs7cpqcbeZB33UYj
+Esperando a que se complete...run_OGATN7z4Xs7cpqcbeZB33UYj
+Esperando a que se complete...run_OGATN7z4Xs7cpqcbeZB33UYj
+Esperando a que se complete...run_OGATN7z4Xs7cpqcbeZB33UYj
+Esperando a que se complete...run_OGATN7z4Xs7cpqcbeZB33UYj
+se completó exitosamente.
+Thread ID: thread_M8SgwUNuAxVCo7stCO95NCb0
+Run ID: run_OGATN7z4Xs7cpqcbeZB33UYj
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.27 seconds
+Registro Actualizado data=[{'index': 68, 'nombre': 'Ovidio', 'apellidos': 'Porta', 'email': 'ernestoblazquez@example.com', 'estudios': 'Doctorado', 'especialidad': 'Informatica', 'ciudad': 'Sevilla', 'edad': 28, 'telefono': '+34 871513706', 'sexo': 'Hombre', 'motivo_compra': 'Versatilidad en el mercado tecnológico', 'score': 82}] count=None
+registro a calcular score numero: 70
+Esperando a que se complete...run_qr2F3tgcV95abuXzpRIbrDTi
+Esperando a que se complete...run_qr2F3tgcV95abuXzpRIbrDTi
+Esperando a que se complete...run_qr2F3tgcV95abuXzpRIbrDTi
+Esperando a que se complete...run_qr2F3tgcV95abuXzpRIbrDTi
+se completó exitosamente.
+Thread ID: thread_FcGNQsHxHu1L39cz9PH1p8S3
+Run ID: run_qr2F3tgcV95abuXzpRIbrDTi
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.04 seconds
+Registro Actualizado data=[{'index': 69, 'nombre': 'Rocío', 'apellidos': 'Lobo', 'email': 'seve05@example.com', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'La Rioja', 'edad': 18, 'telefono': '+34923295524', 'sexo': 'Mujer', 'motivo_compra': 'Orgullo personal por dominar ambos lados del desarrollo', 'score': 60}] count=None
+registro a calcular score numero: 71
+Esperando a que se complete...run_JpilP7sYsFrQkXwrM0z4z6Q2
+Esperando a que se complete...run_JpilP7sYsFrQkXwrM0z4z6Q2
+Esperando a que se complete...run_JpilP7sYsFrQkXwrM0z4z6Q2
+se completó exitosamente.
+Thread ID: thread_nV9rXrWY1TYhDzxSx3J9R0Ib
+Run ID: run_JpilP7sYsFrQkXwrM0z4z6Q2
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 11.88 seconds
+Registro Actualizado data=[{'index': 70, 'nombre': 'Julie', 'apellidos': 'Boada', 'email': 'leivaepifanio@example.org', 'estudios': 'Grado Superior', 'especialidad': 'Letras', 'ciudad': 'Álava', 'edad': 35, 'telefono': '+34 876705013', 'sexo': 'Hombre', 'motivo_compra': 'Querer resolver problemas sin depender de otros', 'score': 95}] count=None
+registro a calcular score numero: 72
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Esperando a que se complete...run_MkTzZUFKY3YVnVMqo2Ry9hdc
+se completó exitosamente.
+Thread ID: thread_DvK7A7iJJDUgspnDywvPXWnN
+Run ID: run_MkTzZUFKY3YVnVMqo2Ry9hdc
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 30.25 seconds
+Registro Actualizado data=[{'index': 71, 'nombre': 'Xiomara', 'apellidos': 'Carvajal', 'email': 'manuela83@example.org', 'estudios': 'Máster', 'especialidad': 'Letras', 'ciudad': 'Barcelona', 'edad': 41, 'telefono': '+34987087429', 'sexo': 'Mujer', 'motivo_compra': "Ser un 'todoterreno' en cualquier proyecto tecnológico", 'score': 100}] count=None
+registro a calcular score numero: 73
+Esperando a que se complete...run_7dscyjxsx5y2155JlcvY9er7
+Esperando a que se complete...run_7dscyjxsx5y2155JlcvY9er7
+Esperando a que se complete...run_7dscyjxsx5y2155JlcvY9er7
+se completó exitosamente.
+Thread ID: thread_hOcCYWUS1lrNk4p7qaqGWqdd
+Run ID: run_7dscyjxsx5y2155JlcvY9er7
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.61 seconds
+Registro Actualizado data=[{'index': 72, 'nombre': 'Blas', 'apellidos': 'Rodríguez', 'email': 'antonia33@example.org', 'estudios': 'Grado Medio', 'especialidad': 'Ingenieria', 'ciudad': 'Murcia', 'edad': 23, 'telefono': '+34841 08 14 38', 'sexo': 'Hombre', 'motivo_compra': 'Hacer realidad ideas locas con código', 'score': 65}] count=None
+registro a calcular score numero: 74
+Esperando a que se complete...run_KjPaZ0C0HVjWXaAYB5dvja63
+Esperando a que se complete...run_KjPaZ0C0HVjWXaAYB5dvja63
+Esperando a que se complete...run_KjPaZ0C0HVjWXaAYB5dvja63
+Esperando a que se complete...run_KjPaZ0C0HVjWXaAYB5dvja63
+se completó exitosamente.
+Thread ID: thread_TDoiTbfaPuNYU8EKHnRlBJSa
+Run ID: run_KjPaZ0C0HVjWXaAYB5dvja63
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.32 seconds
+Registro Actualizado data=[{'index': 73, 'nombre': 'Joan', 'apellidos': 'Agudo', 'email': 'norberto77@example.com', 'estudios': 'Grado Medio', 'especialidad': 'Letras', 'ciudad': 'Cuenca', 'edad': 24, 'telefono': '+34 855 26 49 48', 'sexo': 'Mujer', 'motivo_compra': 'Capacidad de adaptación a diferentes industrias', 'score': 51}] count=None
+registro a calcular score numero: 75
+Esperando a que se complete...run_FjycyHj3Js57oyIKuHvUE2FR
+Esperando a que se complete...run_FjycyHj3Js57oyIKuHvUE2FR
+Esperando a que se complete...run_FjycyHj3Js57oyIKuHvUE2FR
+Esperando a que se complete...run_FjycyHj3Js57oyIKuHvUE2FR
+se completó exitosamente.
+Thread ID: thread_8jUvS7C7TPiiAH41HUp4aG99
+Run ID: run_FjycyHj3Js57oyIKuHvUE2FR
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.98 seconds
+Registro Actualizado data=[{'index': 74, 'nombre': 'Ruperto', 'apellidos': 'Morera', 'email': 'ferranpastor@example.net', 'estudios': 'Máster', 'especialidad': 'Ingenieria', 'ciudad': 'Guadalajara', 'edad': 23, 'telefono': '+34888967088', 'sexo': 'Mujer', 'motivo_compra': 'Querer resolver problemas sin depender de otros', 'score': 100}] count=None
+registro a calcular score numero: 76
+Esperando a que se complete...run_ka253tnbxhRglQtL8yosFbS7
+Esperando a que se complete...run_ka253tnbxhRglQtL8yosFbS7
+Esperando a que se complete...run_ka253tnbxhRglQtL8yosFbS7
+Esperando a que se complete...run_ka253tnbxhRglQtL8yosFbS7
+se completó exitosamente.
+Thread ID: thread_AORD2R6PJOXyCbEYjppUjoyv
+Run ID: run_ka253tnbxhRglQtL8yosFbS7
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.23 seconds
+Registro Actualizado data=[{'index': 75, 'nombre': 'Bruno', 'apellidos': 'Arribas', 'email': 'isernemperatriz@example.net', 'estudios': 'Grado Superior', 'especialidad': 'Informatica', 'ciudad': 'Huesca', 'edad': 37, 'telefono': '+34823979161', 'sexo': 'Hombre', 'motivo_compra': 'Hacer realidad ideas locas con código', 'score': 74}] count=None
+registro a calcular score numero: 77
+Esperando a que se complete...run_tIgmekB2akN1rEPaRrrIzMAj
+Esperando a que se complete...run_tIgmekB2akN1rEPaRrrIzMAj
+Esperando a que se complete...run_tIgmekB2akN1rEPaRrrIzMAj
+Esperando a que se complete...run_tIgmekB2akN1rEPaRrrIzMAj
+se completó exitosamente.
+Thread ID: thread_uWxabFl75ZG5J8gyH7vwmoUM
+Run ID: run_tIgmekB2akN1rEPaRrrIzMAj
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.06 seconds
+Registro Actualizado data=[{'index': 76, 'nombre': 'Carmela', 'apellidos': 'Perez', 'email': 'montserrat29@example.net', 'estudios': 'Grado Superior', 'especialidad': 'Informatica', 'ciudad': 'Salamanca', 'edad': 38, 'telefono': '+34876 518 828', 'sexo': 'Hombre', 'motivo_compra': 'Capacidad de adaptación a diferentes industrias', 'score': 75}] count=None
+registro a calcular score numero: 78
+Esperando a que se complete...run_f3UZe4CvuRWPP3G4D6PoD234
+Esperando a que se complete...run_f3UZe4CvuRWPP3G4D6PoD234
+Esperando a que se complete...run_f3UZe4CvuRWPP3G4D6PoD234
+Esperando a que se complete...run_f3UZe4CvuRWPP3G4D6PoD234
+Esperando a que se complete...run_f3UZe4CvuRWPP3G4D6PoD234
+Esperando a que se complete...run_f3UZe4CvuRWPP3G4D6PoD234
+se completó exitosamente.
+Thread ID: thread_YrFqP2VTgSLEVc1js6aMNwSR
+Run ID: run_f3UZe4CvuRWPP3G4D6PoD234
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 22.19 seconds
+Registro Actualizado data=[{'index': 77, 'nombre': 'Gisela', 'apellidos': 'Bolaños', 'email': 'anselma85@example.net', 'estudios': 'Grado Superior', 'especialidad': 'Informatica', 'ciudad': 'Cantabria', 'edad': 38, 'telefono': '+34 825064299', 'sexo': 'Mujer', 'motivo_compra': 'Desarrollar videojuegos o apps personales', 'score': 90}] count=None
+registro a calcular score numero: 79
+Esperando a que se complete...run_h0cUiyixepMN4KYojsdyr15v
+Esperando a que se complete...run_h0cUiyixepMN4KYojsdyr15v
+Esperando a que se complete...run_h0cUiyixepMN4KYojsdyr15v
+se completó exitosamente.
+Thread ID: thread_iEHIgEaz7ScoHv03jcsJ4lHK
+Run ID: run_h0cUiyixepMN4KYojsdyr15v
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.16 seconds
+Registro Actualizado data=[{'index': 78, 'nombre': 'Edelmira', 'apellidos': 'Torrijos', 'email': 'felicidadcespedes@example.org', 'estudios': 'Bachillerato', 'especialidad': 'Informatica', 'ciudad': 'Córdoba', 'edad': 19, 'telefono': '+34879439089', 'sexo': 'Mujer', 'motivo_compra': 'Orgullo personal por dominar ambos lados del desarrollo', 'score': 70}] count=None
+registro a calcular score numero: 80
+Esperando a que se complete...run_DPejjKGMcXPxnDZ6J7zmXcch
+Esperando a que se complete...run_DPejjKGMcXPxnDZ6J7zmXcch
+Esperando a que se complete...run_DPejjKGMcXPxnDZ6J7zmXcch
+Esperando a que se complete...run_DPejjKGMcXPxnDZ6J7zmXcch
+se completó exitosamente.
+Thread ID: thread_xSwOkLhhGFFdGG65cIQsYjVw
+Run ID: run_DPejjKGMcXPxnDZ6J7zmXcch
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.47 seconds
+Registro Actualizado data=[{'index': 79, 'nombre': 'Magdalena', 'apellidos': 'Verdejo', 'email': 'aura42@example.com', 'estudios': 'Grado Superior', 'especialidad': 'Letras', 'ciudad': 'La Coruña', 'edad': 25, 'telefono': '+34 977 04 07 85', 'sexo': 'Mujer', 'motivo_compra': 'Preparación para transicionar hacia roles de CTO o Tech Lead', 'score': 79}] count=None
+registro a calcular score numero: 81
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+Esperando a que se complete...run_ffJLDSfnYZ8xio3QTYumk67e
+se completó exitosamente.
+Thread ID: thread_JJljAYUCuNYyHomq4XRM3nzw
+Run ID: run_ffJLDSfnYZ8xio3QTYumk67e
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 51.29 seconds
+Registro Actualizado data=[{'index': 80, 'nombre': 'Juan Luis', 'apellidos': 'Cid', 'email': 'olimpiavalderrama@example.net', 'estudios': 'Doctorado', 'especialidad': 'Letras', 'ciudad': 'Baleares', 'edad': 27, 'telefono': '+34 807 440 292', 'sexo': 'Mujer', 'motivo_compra': 'Ahorrar dinero en equipos de desarrollo para proyectos personales', 'score': 79}] count=None
+registro a calcular score numero: 82
+Esperando a que se complete...run_KImUpoRYRlmtiLWZ6aoKDqOV
+Esperando a que se complete...run_KImUpoRYRlmtiLWZ6aoKDqOV
+Esperando a que se complete...run_KImUpoRYRlmtiLWZ6aoKDqOV
+Esperando a que se complete...run_KImUpoRYRlmtiLWZ6aoKDqOV
+Esperando a que se complete...run_KImUpoRYRlmtiLWZ6aoKDqOV
+se completó exitosamente.
+Thread ID: thread_4sDfE5WL9DAILJaLoZHAuIOK
+Run ID: run_KImUpoRYRlmtiLWZ6aoKDqOV
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.25 seconds
+Registro Actualizado data=[{'index': 81, 'nombre': 'Juan Francisco', 'apellidos': 'Mancebo', 'email': 'amorfuertes@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Informatica', 'ciudad': 'La Coruña', 'edad': 33, 'telefono': '+34844 832 304', 'sexo': 'Hombre', 'motivo_compra': 'Potencial para trabajar en proyectos internacionales', 'score': 100}] count=None
+registro a calcular score numero: 83
+Esperando a que se complete...run_uo6O0aLjd8gNEEYMfoKDaloH
+Esperando a que se complete...run_uo6O0aLjd8gNEEYMfoKDaloH
+Esperando a que se complete...run_uo6O0aLjd8gNEEYMfoKDaloH
+se completó exitosamente.
+Thread ID: thread_FTwpYb3WLSCsCfYdvhYkocIp
+Run ID: run_uo6O0aLjd8gNEEYMfoKDaloH
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 11.91 seconds
+Registro Actualizado data=[{'index': 82, 'nombre': 'Bruno', 'apellidos': 'Ramirez', 'email': 'moises57@example.org', 'estudios': 'Doctorado', 'especialidad': 'Letras', 'ciudad': 'Alicante', 'edad': 33, 'telefono': '+34921 541 709', 'sexo': 'Hombre', 'motivo_compra': 'Demanda laboral en constante crecimiento', 'score': 75}] count=None
+registro a calcular score numero: 84
+Esperando a que se complete...run_JBMorWYfgknC1qdVrR9eiCJr
+Esperando a que se complete...run_JBMorWYfgknC1qdVrR9eiCJr
+Esperando a que se complete...run_JBMorWYfgknC1qdVrR9eiCJr
+Esperando a que se complete...run_JBMorWYfgknC1qdVrR9eiCJr
+se completó exitosamente.
+Thread ID: thread_sQogblyNmmTkLcvWkjRzwEoz
+Run ID: run_JBMorWYfgknC1qdVrR9eiCJr
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.91 seconds
+Registro Actualizado data=[{'index': 83, 'nombre': 'Che', 'apellidos': 'Almeida', 'email': 'wbarragan@example.org', 'estudios': 'Grado Medio', 'especialidad': 'Ingenieria', 'ciudad': 'Murcia', 'edad': 25, 'telefono': '+34878 35 30 00', 'sexo': 'Hombre', 'motivo_compra': 'Curiosidad por aprender de todo un poco', 'score': 74}] count=None
+registro a calcular score numero: 85
+Esperando a que se complete...run_6SszXaI57QTRFrLQJNap2a8P
+Esperando a que se complete...run_6SszXaI57QTRFrLQJNap2a8P
+Esperando a que se complete...run_6SszXaI57QTRFrLQJNap2a8P
+Esperando a que se complete...run_6SszXaI57QTRFrLQJNap2a8P
+se completó exitosamente.
+Thread ID: thread_tns5CMAgnz4nqtqjHkAEJeBh
+Run ID: run_6SszXaI57QTRFrLQJNap2a8P
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.90 seconds
+Registro Actualizado data=[{'index': 84, 'nombre': 'Guadalupe', 'apellidos': 'Ávila', 'email': 'carneromarino@example.org', 'estudios': 'Licenciatura', 'especialidad': 'Letras', 'ciudad': 'Asturias', 'edad': 24, 'telefono': '+34 922 51 44 81', 'sexo': 'Mujer', 'motivo_compra': 'Hacer realidad ideas locas con código', 'score': 60}] count=None
+registro a calcular score numero: 86
+Esperando a que se complete...run_G5dmMyqsGc9Bx2b5f5pbATaJ
+Esperando a que se complete...run_G5dmMyqsGc9Bx2b5f5pbATaJ
+Esperando a que se complete...run_G5dmMyqsGc9Bx2b5f5pbATaJ
+Esperando a que se complete...run_G5dmMyqsGc9Bx2b5f5pbATaJ
+Esperando a que se complete...run_G5dmMyqsGc9Bx2b5f5pbATaJ
+se completó exitosamente.
+Thread ID: thread_L1Md7aaTW2nOsKlI9iCmE1eS
+Run ID: run_G5dmMyqsGc9Bx2b5f5pbATaJ
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 19.01 seconds
+Registro Actualizado data=[{'index': 85, 'nombre': 'Teodora', 'apellidos': 'Campos', 'email': 'leandra87@example.net', 'estudios': 'Licenciatura', 'especialidad': 'Ingenieria', 'ciudad': 'Palencia', 'edad': 18, 'telefono': '+34 800 853 182', 'sexo': 'Hombre', 'motivo_compra': 'Versatilidad en el mercado tecnológico', 'score': 65}] count=None
+registro a calcular score numero: 87
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+Esperando a que se complete...run_LIq6O4BY00Ky7WV33xj6hAio
+petó.
+Thread ID: thread_PAyErDJHvEBVcsVXU9NFRlu9
+Run ID: run_LIq6O4BY00Ky7WV33xj6hAio
+Run Status: failed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 68.01 seconds
+Registro no actualizado
+registro a calcular score numero: 88
+Esperando a que se complete...run_843nncAxqZvVQlk0C5HsSxEN
+Esperando a que se complete...run_843nncAxqZvVQlk0C5HsSxEN
+Esperando a que se complete...run_843nncAxqZvVQlk0C5HsSxEN
+Esperando a que se complete...run_843nncAxqZvVQlk0C5HsSxEN
+se completó exitosamente.
+Thread ID: thread_Ifn84Hv0SkNCeER4sjuuYoH9
+Run ID: run_843nncAxqZvVQlk0C5HsSxEN
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.09 seconds
+Registro Actualizado data=[{'index': 87, 'nombre': 'Ariel', 'apellidos': 'Marquez', 'email': 'marquezagueda@example.com', 'estudios': 'Eso', 'especialidad': 'Letras', 'ciudad': 'Zaragoza', 'edad': 21, 'telefono': '+34949 207 641', 'sexo': 'Hombre', 'motivo_compra': 'Competitividad profesional a largo plazo', 'score': 62}] count=None
+registro a calcular score numero: 89
+Esperando a que se complete...run_DwvaZWt6oi5Q48fnJUnHRi03
+Esperando a que se complete...run_DwvaZWt6oi5Q48fnJUnHRi03
+Esperando a que se complete...run_DwvaZWt6oi5Q48fnJUnHRi03
+Esperando a que se complete...run_DwvaZWt6oi5Q48fnJUnHRi03
+Esperando a que se complete...run_DwvaZWt6oi5Q48fnJUnHRi03
+Esperando a que se complete...run_DwvaZWt6oi5Q48fnJUnHRi03
+se completó exitosamente.
+Thread ID: thread_eIlzZI3u3hPuTCvSGs0nxv1m
+Run ID: run_DwvaZWt6oi5Q48fnJUnHRi03
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 24.12 seconds
+Registro Actualizado data=[{'index': 88, 'nombre': 'Felicidad', 'apellidos': 'Martin', 'email': 'ccepeda@example.org', 'estudios': 'Licenciatura', 'especialidad': 'Letras', 'ciudad': 'Madrid', 'edad': 29, 'telefono': '+34923 20 61 15', 'sexo': 'Hombre', 'motivo_compra': 'Explorar la satisfacción de construir algo desde cero', 'score': 100}] count=None
+registro a calcular score numero: 90
+Esperando a que se complete...run_fbOqYZZjuuCDjf6Z1Z2DyQ9a
+Esperando a que se complete...run_fbOqYZZjuuCDjf6Z1Z2DyQ9a
+Esperando a que se complete...run_fbOqYZZjuuCDjf6Z1Z2DyQ9a
+Esperando a que se complete...run_fbOqYZZjuuCDjf6Z1Z2DyQ9a
+se completó exitosamente.
+Thread ID: thread_UJEykVKgeJNHknandTvkdzNc
+Run ID: run_fbOqYZZjuuCDjf6Z1Z2DyQ9a
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.62 seconds
+Registro Actualizado data=[{'index': 89, 'nombre': 'Jose Ignacio', 'apellidos': 'Talavera', 'email': 'nayarazapata@example.org', 'estudios': 'Licenciatura', 'especialidad': 'Letras', 'ciudad': 'Soria', 'edad': 21, 'telefono': '+34 945659811', 'sexo': 'Hombre', 'motivo_compra': 'Orgullo personal por dominar ambos lados del desarrollo', 'score': 68}] count=None
+registro a calcular score numero: 91
+Esperando a que se complete...run_KkR40PuxqYGgpCW1QpdYnF5m
+Esperando a que se complete...run_KkR40PuxqYGgpCW1QpdYnF5m
+Esperando a que se complete...run_KkR40PuxqYGgpCW1QpdYnF5m
+se completó exitosamente.
+Thread ID: thread_2cSBZ6wc6Fiwk37szP8cRBpl
+Run ID: run_KkR40PuxqYGgpCW1QpdYnF5m
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 11.84 seconds
+Registro Actualizado data=[{'index': 90, 'nombre': 'Rodrigo', 'apellidos': 'Gimenez', 'email': 'mendizabaldebora@example.com', 'estudios': 'Grado Superior', 'especialidad': 'Informatica', 'ciudad': 'Madrid', 'edad': 22, 'telefono': '+34971115265', 'sexo': 'Hombre', 'motivo_compra': 'Contribución al avance tecnológico de las empresas', 'score': 78}] count=None
+registro a calcular score numero: 92
+Esperando a que se complete...run_OR1EsrphqklYFOCoFscst4yK
+Esperando a que se complete...run_OR1EsrphqklYFOCoFscst4yK
+Esperando a que se complete...run_OR1EsrphqklYFOCoFscst4yK
+Esperando a que se complete...run_OR1EsrphqklYFOCoFscst4yK
+Esperando a que se complete...run_OR1EsrphqklYFOCoFscst4yK
+se completó exitosamente.
+Thread ID: thread_guiNstzroUuuF20wPXmnfMZm
+Run ID: run_OR1EsrphqklYFOCoFscst4yK
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 18.74 seconds
+Registro Actualizado data=[{'index': 91, 'nombre': 'Maristela', 'apellidos': 'Aguilera', 'email': 'ildefonsocuesta@example.net', 'estudios': 'Máster', 'especialidad': 'Ingenieria', 'ciudad': 'Castellón', 'edad': 40, 'telefono': '+34 803720779', 'sexo': 'Mujer', 'motivo_compra': 'Contribución al avance tecnológico de las empresas', 'score': 78}] count=None
+registro a calcular score numero: 93
+Esperando a que se complete...run_fMW9EA9v2uB4cSXa70V4KOn7
+Esperando a que se complete...run_fMW9EA9v2uB4cSXa70V4KOn7
+Esperando a que se complete...run_fMW9EA9v2uB4cSXa70V4KOn7
+se completó exitosamente.
+Thread ID: thread_doUMSJlWzkEsiPtm45136n0V
+Run ID: run_fMW9EA9v2uB4cSXa70V4KOn7
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 12.71 seconds
+Registro Actualizado data=[{'index': 92, 'nombre': 'Leocadia', 'apellidos': 'Rico', 'email': 'silvia03@example.org', 'estudios': 'Máster', 'especialidad': 'Letras', 'ciudad': 'Las Palmas', 'edad': 25, 'telefono': '+34662 79 43 29', 'sexo': 'Mujer', 'motivo_compra': 'Capacidad para liderar proyectos tecnológicos', 'score': 73}] count=None
+registro a calcular score numero: 94
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+Esperando a que se complete...run_IJzmv2EpSZqh86RvDwK58cmp
+se completó exitosamente.
+Thread ID: thread_Ww18mnxVhS4fBkufMXJmqo5g
+Run ID: run_IJzmv2EpSZqh86RvDwK58cmp
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 28.40 seconds
+Registro Actualizado data=[{'index': 93, 'nombre': 'Felipe', 'apellidos': 'Cruz', 'email': 'gayaguadalupe@example.com', 'estudios': 'Bachillerato', 'especialidad': 'Ingenieria', 'ciudad': 'Murcia', 'edad': 43, 'telefono': '+34947 998 476', 'sexo': 'Mujer', 'motivo_compra': 'Hacer realidad ideas locas con código', 'score': 62}] count=None
+registro a calcular score numero: 95
+Esperando a que se complete...run_toz5UVxgHdTG5RBDFhG1hXyF
+Esperando a que se complete...run_toz5UVxgHdTG5RBDFhG1hXyF
+Esperando a que se complete...run_toz5UVxgHdTG5RBDFhG1hXyF
+Esperando a que se complete...run_toz5UVxgHdTG5RBDFhG1hXyF
+se completó exitosamente.
+Thread ID: thread_JAoEpIWOojUWjnE9gljE6OOd
+Run ID: run_toz5UVxgHdTG5RBDFhG1hXyF
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.26 seconds
+Registro Actualizado data=[{'index': 94, 'nombre': 'Rosario', 'apellidos': 'Marí', 'email': 'rmayo@example.org', 'estudios': 'Doctorado', 'especialidad': 'Letras', 'ciudad': 'Huesca', 'edad': 18, 'telefono': '+34 841076729', 'sexo': 'Hombre', 'motivo_compra': 'Aventurarse en el mundo freelance con más confianza', 'score': 66}] count=None
+registro a calcular score numero: 96
+Esperando a que se complete...run_NS4VT1hO0y2cLvTffo85oU8b
+Esperando a que se complete...run_NS4VT1hO0y2cLvTffo85oU8b
+Esperando a que se complete...run_NS4VT1hO0y2cLvTffo85oU8b
+Esperando a que se complete...run_NS4VT1hO0y2cLvTffo85oU8b
+se completó exitosamente.
+Thread ID: thread_SZgWPgPDU0YFWZPifqQwTQQo
+Run ID: run_NS4VT1hO0y2cLvTffo85oU8b
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.99 seconds
+Registro Actualizado data=[{'index': 95, 'nombre': 'Pilar', 'apellidos': 'Jara', 'email': 'edelmirocanovas@example.com', 'estudios': 'Licenciatura', 'especialidad': 'Informatica', 'ciudad': 'Castellón', 'edad': 28, 'telefono': '+34 846 99 84 91', 'sexo': 'Hombre', 'motivo_compra': 'Capacidad para liderar proyectos tecnológicos', 'score': 65}] count=None
+registro a calcular score numero: 97
+Esperando a que se complete...run_IcH6cKudfM35GOWe3K2V6l8p
+Esperando a que se complete...run_IcH6cKudfM35GOWe3K2V6l8p
+Esperando a que se complete...run_IcH6cKudfM35GOWe3K2V6l8p
+Esperando a que se complete...run_IcH6cKudfM35GOWe3K2V6l8p
+Esperando a que se complete...run_IcH6cKudfM35GOWe3K2V6l8p
+Esperando a que se complete...run_IcH6cKudfM35GOWe3K2V6l8p
+se completó exitosamente.
+Thread ID: thread_LQPhMXYcSUJDA89Pdy7vZiqK
+Run ID: run_IcH6cKudfM35GOWe3K2V6l8p
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 21.60 seconds
+Registro Actualizado data=[{'index': 96, 'nombre': 'Ángel', 'apellidos': 'Fuente', 'email': 'rheras@example.org', 'estudios': 'Eso', 'especialidad': 'Informatica', 'ciudad': 'Ciudad', 'edad': 40, 'telefono': '+34712 834 516', 'sexo': 'Mujer', 'motivo_compra': 'Capacidad para liderar proyectos tecnológicos', 'score': 20}] count=None
+registro a calcular score numero: 98
+Esperando a que se complete...run_CzSTYnY7ibbv2UF0LTxSP3Ve
+Esperando a que se complete...run_CzSTYnY7ibbv2UF0LTxSP3Ve
+Esperando a que se complete...run_CzSTYnY7ibbv2UF0LTxSP3Ve
+Esperando a que se complete...run_CzSTYnY7ibbv2UF0LTxSP3Ve
+se completó exitosamente.
+Thread ID: thread_bDspCqknN2gcMTdiDOIJxe29
+Run ID: run_CzSTYnY7ibbv2UF0LTxSP3Ve
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 14.80 seconds
+Registro Actualizado data=[{'index': 97, 'nombre': 'Nayara', 'apellidos': 'Tomás', 'email': 'grauadriana@example.org', 'estudios': 'Grado Superior', 'especialidad': 'Letras', 'ciudad': 'Segovia', 'edad': 28, 'telefono': '+34 921328551', 'sexo': 'Hombre', 'motivo_compra': 'Evitar la frustración de esperar a que otro termine una tarea', 'score': 78}] count=None
+registro a calcular score numero: 99
+Esperando a que se complete...run_iFahcErxspC8Oajn6NOosRks
+Esperando a que se complete...run_iFahcErxspC8Oajn6NOosRks
+Esperando a que se complete...run_iFahcErxspC8Oajn6NOosRks
+Esperando a que se complete...run_iFahcErxspC8Oajn6NOosRks
+Esperando a que se complete...run_iFahcErxspC8Oajn6NOosRks
+Esperando a que se complete...run_iFahcErxspC8Oajn6NOosRks
+Esperando a que se complete...run_iFahcErxspC8Oajn6NOosRks
+se completó exitosamente.
+Thread ID: thread_M4t3vOkPHQ8txBvDU0lnuSP3
+Run ID: run_iFahcErxspC8Oajn6NOosRks
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 24.85 seconds
+Registro Actualizado data=[{'index': 98, 'nombre': 'Lope', 'apellidos': 'Urrutia', 'email': 'salcedorosario@example.com', 'estudios': 'Doctorado', 'especialidad': 'Informatica', 'ciudad': 'Cádiz', 'edad': 22, 'telefono': '+34 845 98 38 89', 'sexo': 'Hombre', 'motivo_compra': 'Mayor libertad al buscar empleo remoto', 'score': 82}] count=None
+registro a calcular score numero: 100
+Esperando a que se complete...run_RZFFF3c3F2hfM4WFcexUiznh
+Esperando a que se complete...run_RZFFF3c3F2hfM4WFcexUiznh
+Esperando a que se complete...run_RZFFF3c3F2hfM4WFcexUiznh
+Esperando a que se complete...run_RZFFF3c3F2hfM4WFcexUiznh
+se completó exitosamente.
+Thread ID: thread_RcNoXarXl4rfw0m9M9Nu0Yzd
+Run ID: run_RZFFF3c3F2hfM4WFcexUiznh
+Run Status: completed
+respuesta procesada del asistente.
+Tiempo de procesamiento: 15.22 seconds
+Registro Actualizado data=[{'index': 99, 'nombre': 'Encarnita', 'apellidos': 'Calderón', 'email': 'gesteve@example.org', 'estudios': 'Doctorado', 'especialidad': 'Informatica', 'ciudad': 'La Rioja', 'edad': 28, 'telefono': '+34 981 252 137', 'sexo': 'Mujer', 'motivo_compra': 'Impresionar a amigos o colegas con soluciones completas', 'score': 82}] count=None
+Se procesaron 100 registros
