@@ -42,12 +42,13 @@ def update_data(data):
             .update({"score": score})
             .eq("email", data.get("email"))
             .execute())
+        print(f"Registro Actualizado {data.get("email")}")
     else:
         print("Registro no actualizado")
 
 def get_data_update(datos, openai_client, my_assistant, thread):
 
-    salida = 0
+    reg = -1
 
     i = 0
     for index, row in datos.iterrows():
@@ -56,9 +57,9 @@ def get_data_update(datos, openai_client, my_assistant, thread):
         assistant_response = sp.process_data(openai_client, my_assistant.id, thread.id, message)
         data = extract_json(assistant_response)
         update_data(data)
-        salida = index
+        reg = index
         i = i + 1
         if i == 3:
             break
     
-    return salida
+    return reg + 1
