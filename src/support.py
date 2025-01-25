@@ -51,7 +51,6 @@ def get_data_update(datos, openai_client, my_assistant, thread):
 
     reg = -1
 
-    i = 0
     for index, row in datos.iterrows():
         start = time.perf_counter()
         df1 = pd.DataFrame(row).transpose().to_markdown()
@@ -61,8 +60,5 @@ def get_data_update(datos, openai_client, my_assistant, thread):
         print(f"Tiempo de procesamiento: {elapsed:0.2f} seconds")
         update_data(extract_json(data))
         reg = index
-        i = i + 1
-        if i == 3:
-            break
     
     return reg + 1

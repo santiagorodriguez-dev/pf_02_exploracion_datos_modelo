@@ -9,7 +9,6 @@ import os
 import dotenv # type: ignore
 dotenv.load_dotenv()
 
-
 def modelo_predictivo():
    
    openai_client = sp.init_openai()
@@ -18,10 +17,11 @@ def modelo_predictivo():
 
    datos = bd.select_datos("leads")
 
+   print(f"Datos a procesar {datos.shape[0]} registros")
+
    reg = sp_c.get_data_update(datos, openai_client, assis_predict, thread)
 
    print(f"Se procesaron {reg} registros")
-
 
 def main():
    modelo_predictivo()
