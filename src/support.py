@@ -1,4 +1,5 @@
 
+import asyncio
 import sys
 sys.path.append("../")
 
@@ -54,9 +55,8 @@ def get_data_update(datos, openai_client, my_assistant, thread):
     for index, row in datos.iterrows():
         df1 = pd.DataFrame(row).transpose().to_markdown()
         message =f"calcula el score de: {df1}"
-        assistant_response = sp.process_data(openai_client, my_assistant.id, thread.id, message)
-        data = extract_json(assistant_response)
-        update_data(data)
+        data = sp.process_data(openai_client, my_assistant.id, thread.id, message)
+        update_data(extract_json(data))
         reg = index
         i = i + 1
         if i == 3:

@@ -51,8 +51,8 @@ def process_data(openai_client, assistant_id, thread_id, message):
             print("petó.")
             break
         else:
-            print("Esperando a que se complete...")
-            time.sleep(2)
+            print(f"Esperando a que se complete...{run.id}")
+            time.sleep(1)
 
     print(f"Thread ID: {thread_id}")
     print(f"Run ID: {run.id}")
