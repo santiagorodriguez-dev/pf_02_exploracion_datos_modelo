@@ -1,0 +1,39 @@
+Cliente: ¡Hola! Estoy interesado en aprender desarrollo web, pero no sé por dónde empezar. ¿Ustedes ofrecen algún curso?
+
+Vendedor: ¡Hola! Claro que sí. Tenemos un curso Full Stack diseñado para quienes desean aprender desde lo más básico hasta lo avanzado en desarrollo web.
+
+Cliente: ¿Qué incluye el curso?
+
+Vendedor: El curso está dividido en dos partes principales:
+
+Front-End: Aprenderás HTML, CSS, JavaScript, y frameworks como React.
+Back-End: Trabajaremos con Node.js, Express, bases de datos como MongoDB y también veremos conceptos de APIs RESTful.
+Además, incluye ejercicios prácticos y un proyecto final que te servirá como portafolio profesional.
+
+Cliente: Suena interesante. ¿Necesito conocimientos previos para inscribirme?
+
+Vendedor: No, está pensado para principiantes. Comenzamos desde cero, así que no necesitas experiencia previa.
+
+Cliente: Genial. ¿Cuánto dura el curso?
+
+Vendedor: Tiene una duración de 4 meses, con clases semanales en vivo y acceso ilimitado a una plataforma de aprendizaje.
+
+Cliente: ¿Y cuánto cuesta?
+
+Vendedor: El costo total es de $500. Sin embargo, si te inscribes esta semana, tenemos un descuento del 20%, así que pagarías solo $400.
+
+Cliente: Eso está bastante bien. ¿Incluyen soporte si tengo dudas durante el curso?
+
+Vendedor: Por supuesto. Contamos con un grupo de soporte en el que puedes consultar dudas, además de sesiones de mentoría personalizadas con los instructores.
+
+Cliente: Perfecto. Creo que me interesa inscribirme. ¿Qué pasos debo seguir?
+
+Vendedor: Es muy fácil. Solo necesitas completar un formulario de inscripción y realizar el pago. Si quieres, te puedo enviar el enlace para que lo hagas ahora mismo.
+
+Cliente: Sí, por favor.
+
+Vendedor: ¡Excelente! Aquí tienes el enlace. Si necesitas más información, no dudes en contactarnos.
+
+Cliente: ¡Gracias! Estoy emocionado por empezar.
+
+Vendedor: ¡Gracias a ti! Nos vemos pronto en el curso. 😊

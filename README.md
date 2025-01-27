@@ -16,4 +16,4 @@
   Informe del EDA con visualizaciones.
   Selección del modelo y métrica de evaluación elegida.
   
-  python.exe modelo_predictivo.py > logs\procesado.txt
+  python.exe modelo_predictivo.py > logs\modelo_predictivo.txt
