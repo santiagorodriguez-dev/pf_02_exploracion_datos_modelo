@@ -72,5 +72,48 @@ def process_data(openai_client, assistant_id, thread_id, message):
 
     return assistant_response
 
+def process_data_sin_mensajes(openai_client, assistant_id, thread_id, message):
+
+    assistant_response = "No se encontró una respuesta del asistente."
+
+    openai_client.beta.threads.messages.create(
+        thread_id=thread_id,
+        role="user",
+        content=message,
+    )
+
+    run = openai_client.beta.threads.runs.create(
+        thread_id=thread_id,
+        assistant_id=assistant_id
+    )
+
+    run_status = openai_client.beta.threads.runs.retrieve(
+        thread_id=thread_id,
+        run_id=run.id
+    )
+
+    while True:
+        run_status = openai_client.beta.threads.runs.retrieve(
+            thread_id=thread_id,
+            run_id=run.id
+        )
+        if run_status.status == "completed":
+            break
+        elif run_status.status == "failed":
+            print("Error, no se encontró una respuesta del asistente. Fallo en llamada a OpenAI.")
+            return assistant_response
+        else:
+            time.sleep(3)
+
+    response_messages = openai_client.beta.threads.messages.list(thread_id=thread_id)
+
+    
+    for message in response_messages.data:
+            assistant_response = "\n".join([block.text.value for block in message.content])
+            break
+
+   
+    return assistant_response
+
 
 
