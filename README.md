@@ -19,6 +19,7 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
 
 2. **Modelo:**
   - Modelo agente openai, asistente de informacion sobre un curso especifico, en este caso Full Stack (RDC)
+  
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_curso_rdc.PNG" alt="logo" />
    </div>
