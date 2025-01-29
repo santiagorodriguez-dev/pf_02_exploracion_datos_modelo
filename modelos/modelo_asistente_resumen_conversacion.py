@@ -27,7 +27,7 @@ def main():
     my_assistant = sp.get_assistant(openai_client, os.getenv("OPENAI_API_ASSIS_CONVERSACION"))
     thread = sp.create_thread(openai_client)
     print(cadena)
-    mensaje= leer_archivo("datos_test/conversacion.txt")
+    mensaje= leer_archivo("../datos_test/conversacion.txt")
     print(cadena)
     if not mensaje:  # Verifica si el mensaje está vacío
         print("El mensaje no puede estar vacío. Inténtalo de nuevo.")
