@@ -4,8 +4,8 @@
 
 Este proyecto tiene como objetivo analizar un conjunto de datos y seleccionar el modelo predictivo más adecuado para el caso de estudio. Se abordan las siguientes etapas:
 
-1. **Exploración de Datos (EDA):** Visualizacion de los datos sinteticos generados en: 
-   <div href="https://github.com/santiagorodriguez-dev/pf_01_etl_preprocesamiento">pf_01_etl_preprocesamiento/div>
+1. **Exploración de Datos (EDA):** Visualizacion de los datos sinteticos generados en:
+   <div href="https://github.com/santiagorodriguez-dev/pf_01_etl_preprocesamiento">pf_01_etl_preprocesamiento</div>
 
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/Figure_1.png" alt="logo" />
