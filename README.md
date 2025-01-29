@@ -1,6 +1,6 @@
   # Exploración de Datos y Selección del Modelo
 
-## 🌟 Objetivo
+## Objetivo
 
 Este proyecto tiene como objetivo analizar un conjunto de datos y seleccionar el modelo predictivo más adecuado para el caso de estudio. Se abordan las siguientes etapas:
 
@@ -33,7 +33,7 @@ El repositorio contiene la siguiente estructura de archivos y carpetas:
 
 ---
 
-## 🔧 Requisitos del Entorno
+## Requisitos del Entorno
 
 Para asegurar la correcta ejecución del proyecto, es necesario instalar las siguientes dependencias en un entorno virtual de Python:
 
@@ -47,7 +47,7 @@ Para asegurar la correcta ejecución del proyecto, es necesario instalar las sig
 
 ---
 
-## 💻 Configuración del Entorno
+## Configuración del Entorno
 
 Sigue estos pasos para configurar el entorno de desarrollo:
 
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## 🎨 Ejecución del Proyecto
+## Ejecución del Proyecto
 
 Para ejecutar los scripts principales y ejecutar los modelos, utiliza los siguientes comandos:
 
@@ -116,10 +116,11 @@ cd visual
 python visualizacion_leads.py
 ```
 
-## 📝 Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia Apache 2.0. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ---
 
-💡 **Nota:** Si tienes algún problema o sugerencia, siéntete libre de abrir un *issue* en el repositorio. ✅
+## Autores ✒️
+* **Santiago Rodriguez** - [santiagorodriguez-dev](https://github.com/santiagorodriguez-dev)
