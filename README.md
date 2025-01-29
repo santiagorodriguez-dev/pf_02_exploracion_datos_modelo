@@ -5,6 +5,12 @@
 Este proyecto tiene como objetivo analizar un conjunto de datos y seleccionar el modelo predictivo más adecuado para el caso de estudio. Se abordan las siguientes etapas:
 
 1. **Exploración de Datos (EDA):** Realizar un análisis exploratorio para identificar patrones y relaciones en los datos, apoyado en visualizaciones relevantes.
+   <div style="text-align: center;">
+     <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/Figure_1.png" alt="logo" />
+   </div>
+  <div style="text-align: center;">
+     <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/Figure_2.png" alt="logo" />
+   </div>
 2. **Selección del Modelo:** Determinar el tipo de modelo necesario (regresión, clasificación o clustering) y justificar la elección según el objetivo del proyecto.
 3. **Entrenamiento y Evaluación Inicial:** Entrenar el modelo utilizando una parte de los datos y evaluar su desempeño inicial con métricas apropiadas.
 
