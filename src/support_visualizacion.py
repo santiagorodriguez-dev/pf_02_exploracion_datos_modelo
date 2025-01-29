@@ -14,6 +14,19 @@ import warnings
 warnings.filterwarnings("ignore")
 
 def visualiazar_datos_alumnos():
+    """
+    Genera visualizaciones para analizar los datos de los alumnos que han comprado el curso.
+
+    - Histograma de edades.
+    - Distribución por sexo.
+    - Distribución de niveles de estudio.
+    - Motivos de compra más frecuentes.
+
+    Se utilizan gráficos de Seaborn y Matplotlib para representar los datos.
+
+    Returns:
+        None
+    """
 
     df = bd.select_datos("alumnos")
     df = df[df.comprado == 1]
@@ -55,7 +68,19 @@ def visualiazar_datos_alumnos():
     plt.show()
 
 def visualiazar_datos_leads():
+    """
+    Genera visualizaciones para analizar los datos de los leads y sus scores.
 
+    - Score en función del nivel de estudios.
+    - Score en función de la especialidad.
+    - Score en función de la edad.
+    - Top 5 motivos de compra con mayor score.
+
+    Se utilizan gráficos de Seaborn y Matplotlib para representar los datos.
+
+    Returns:
+        None
+    """
     df = bd.select_datos("leads")
     # Configuración de estilo
     sns.set_style("whitegrid")

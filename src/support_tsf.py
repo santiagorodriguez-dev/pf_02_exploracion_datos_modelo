@@ -17,6 +17,20 @@ dotenv.load_dotenv()
 from src import support_bd as bd
 
 def crear_modelo():
+    """
+    Crea y entrena un modelo de aprendizaje profundo para predecir la probabilidad de compra de un alumno.
+
+    - Carga datos de la base de datos.
+    - Preprocesa datos categóricos y textuales.
+    - Escala los datos numéricos.
+    - Divide los datos en conjuntos de entrenamiento y prueba.
+    - Construye un modelo de red neuronal con entradas numéricas y de texto.
+    - Entrena y evalúa el modelo.
+    - Predice y actualiza los datos de los leads con el score calculado.
+
+    Returns:
+        None
+    """
 
     df_leads = bd.select_datos("leads")
     df = bd.select_datos("alumnos")
@@ -93,7 +107,23 @@ def crear_modelo():
         update_data(row, score)
 
 def predict_modelo(row, le_estudios, le_especialidad, le_ciudad, le_sexo, scaler, tokenizer, max_len, model):
+    """
+    Predice la probabilidad de compra de un alumno en función de sus características.
 
+    Args:
+        row (pd.Series): Datos del alumno a evaluar.
+        le_estudios (LabelEncoder): Codificador para la columna "estudios".
+        le_especialidad (LabelEncoder): Codificador para la columna "especialidad".
+        le_ciudad (LabelEncoder): Codificador para la columna "ciudad".
+        le_sexo (LabelEncoder): Codificador para la columna "sexo".
+        scaler (StandardScaler): Escalador para los datos numéricos.
+        tokenizer (Tokenizer): Tokenizador para el campo de texto "motivo_compra".
+        max_len (int): Longitud máxima de la secuencia de texto.
+        model (Model): Modelo de red neuronal entrenado.
+
+    Returns:
+        float: Probabilidad de compra en porcentaje.
+    """
     # Crear un DataFrame con la información del nuevo alumno
     test_lead = pd.DataFrame([row])
 
@@ -117,7 +147,16 @@ def predict_modelo(row, le_estudios, le_especialidad, le_ciudad, le_sexo, scaler
     return  probabilidad * 100
 
 def update_data(row, score):
-        
+        """
+        Actualiza el puntaje de compra en la base de datos para un lead específico.
+
+        Args:
+            row (pd.Series): Datos del lead a actualizar.
+            score (float): Puntaje de probabilidad de compra.
+
+        Returns:
+            None
+        """        
         score_short = np.round(float(score), decimals=2)
         
         data ={ 

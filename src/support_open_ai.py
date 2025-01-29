@@ -10,19 +10,55 @@ dotenv.load_dotenv()
 from openai import OpenAI # type: ignore
 
 def init_openai():
+    """
+    Inicializa el cliente de OpenAI utilizando la clave API almacenada en las variables de entorno.
+
+    Returns:
+        OpenAI: Instancia del cliente de OpenAI.
+    """
     os.getenv("OPENAI_API_KEY")
     return OpenAI()
 
 def get_assistant(openai_client, assistant_id):
+    """
+    Recupera un asistente específico de OpenAI a partir de su ID.
+
+    Args:
+        openai_client (OpenAI): Cliente de OpenAI.
+        assistant_id (str): ID del asistente a recuperar.
+
+    Returns:
+        dict: Datos del asistente recuperado.
+    """
     return openai_client.beta.assistants.retrieve(
         assistant_id=assistant_id
     )
 
 def create_thread(openai_client):
+    """
+    Crea un nuevo hilo de conversación en OpenAI.
+
+    Args:
+        openai_client (OpenAI): Cliente de OpenAI.
+
+    Returns:
+        dict: Información del hilo creado.
+    """
     return openai_client.beta.threads.create()
 
 def process_data(openai_client, assistant_id, thread_id, message):
+    """
+    Envía un mensaje a un asistente de OpenAI y procesa su respuesta.
 
+    Args:
+        openai_client (OpenAI): Cliente de OpenAI.
+        assistant_id (str): ID del asistente de OpenAI.
+        thread_id (str): ID del hilo en el que se enviará el mensaje.
+        message (str): Mensaje a enviar al asistente.
+
+    Returns:
+        str: Respuesta del asistente si está disponible, de lo contrario, None.
+    """
     openai_client.beta.threads.messages.create(
         thread_id=thread_id,
         role="user",
@@ -73,6 +109,18 @@ def process_data(openai_client, assistant_id, thread_id, message):
     return assistant_response
 
 def process_data_sin_mensajes(openai_client, assistant_id, thread_id, message):
+    """
+    Envía un mensaje a un asistente de OpenAI y obtiene la respuesta sin imprimir mensajes intermedios.
+
+    Args:
+        openai_client (OpenAI): Cliente de OpenAI.
+        assistant_id (str): ID del asistente de OpenAI.
+        thread_id (str): ID del hilo en el que se enviará el mensaje.
+        message (str): Mensaje a enviar al asistente.
+
+    Returns:
+        str: Respuesta del asistente si está disponible, o un mensaje de error si la solicitud falla.
+    """
 
     assistant_response = "No se encontró una respuesta del asistente."
 
