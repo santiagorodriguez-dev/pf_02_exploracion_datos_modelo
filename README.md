@@ -19,23 +19,31 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
 
 2. **Modelo:**
   - Modelo agente openai, asistente de informacion sobre un curso especifico, en este caso Full Stack (RDC)
-  
+
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_curso_rdc.PNG" alt="logo" />
    </div>
+
   - Este modelo tiene asignada un base de datos de vectores con toda la informacion disponible del curso.
+
   <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/base_de_datos_rdc.PNG" alt="logo" />
    </div>
+
   - Modelo agente openai, test de prediccion de score de posible venta a un leads.
+
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_prediccion.PNG" alt="logo" />
    </div>
+
   - Este modelo tiene asignada un base de datos de vectores con toda la informacion de todos los alumnos.
+
   <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/base_de_datos_prediccion.PNG" alt="logo" />
    </div>
+
   - Modelo agente openai, resume el texto de una conversación entre cliente/vendedor, generando un resumen para mejorar la interaccion con los clientes.
+  
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_resumen_venta.PNG" alt="logo" />
    </div>
