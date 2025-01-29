@@ -17,7 +17,29 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
    </div>
    <br>
 
-2. **Modelo:** Determinar el tipo de modelo necesario (regresión, clasificación o clustering) y justificar la elección según el objetivo del proyecto.
+2. **Modelo:** Se implementan 3 modelos de agentes de openai y un modelo generado por tensorflow.
+  <br>
+   <div style="text-align: center;">
+     <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_curso_rdc.PNG" alt="logo" />
+   </div>
+  <br>
+  <div style="text-align: center;">
+     <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/base_de_datos_rdc.PNG" alt="logo" />
+   </div>
+  <br>
+   <div style="text-align: center;">
+     <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_prediccion.PNG" alt="logo" />
+   </div>
+  <br>
+  <div style="text-align: center;">
+     <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/base_de_datos_prediccion.PNG" alt="logo" />
+   </div>
+   <br>
+   <div style="text-align: center;">
+     <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_resumen_venta.PNG" alt="logo" />
+   </div>
+  <br>
+
 3. **Entrenamiento y Evaluación Inicial:** Entrenar el modelo utilizando una parte de los datos y evaluar su desempeño inicial con métricas apropiadas.
 ---
 
