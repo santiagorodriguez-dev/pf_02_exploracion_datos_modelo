@@ -4,7 +4,8 @@
 
 Este proyecto tiene como objetivo analizar un conjunto de datos y seleccionar el modelo predictivo más adecuado para el caso de estudio. Se abordan las siguientes etapas:
 
-1. **Exploración de Datos (EDA):** Realizar un análisis exploratorio para identificar patrones y relaciones en los datos, apoyado en visualizaciones relevantes.
+1. **Exploración de Datos (EDA):** Visualizacion de los datos sinteticos generados en: 
+   <div href="https://github.com/santiagorodriguez-dev/pf_01_etl_preprocesamiento">pf_01_etl_preprocesamiento/div>
 
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/Figure_1.png" alt="logo" />
@@ -14,9 +15,8 @@ Este proyecto tiene como objetivo analizar un conjunto de datos y seleccionar el
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/Figure_2.png" alt="logo" />
    </div>
    
-2. **Selección del Modelo:** Determinar el tipo de modelo necesario (regresión, clasificación o clustering) y justificar la elección según el objetivo del proyecto.
+2. **Modelo:** Determinar el tipo de modelo necesario (regresión, clasificación o clustering) y justificar la elección según el objetivo del proyecto.
 3. **Entrenamiento y Evaluación Inicial:** Entrenar el modelo utilizando una parte de los datos y evaluar su desempeño inicial con métricas apropiadas.
-
 ---
 
 ## 🗂 Estructura del Proyecto
@@ -80,6 +80,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ---
+# Notas
+-   Crear fichero .env en el raiz del proyecto.
+```bash
+SUPABASE_URL='url'
+SUPABASE_KEY='key'
+OPENAI_API_KEY='open_api_key'
+OPENAI_API_ASSIS_PREDICCION='id_asistente_1'
+OPENAI_API_ASSIS_VENTA='id_asistente_2'
+OPENAI_API_ASSIS_CONVERSACION='id_asistente_3'
+TF_ENABLE_ONEDNN_OPTS=0
+```
 
 ## Ejecución del Proyecto
 
