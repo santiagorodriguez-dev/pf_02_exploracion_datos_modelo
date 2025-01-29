@@ -1,4 +1,5 @@
-  # Exploración de Datos y Selección del Modelo
+
+# 2 - Agente asistente de ventas - Exploración de Datos y Selección del Modelo
 
 ## Objetivo
 
@@ -15,7 +16,7 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/Figure_2.png" alt="logo" />
    </div>
    <br>
-   
+
 2. **Modelo:** Determinar el tipo de modelo necesario (regresión, clasificación o clustering) y justificar la elección según el objetivo del proyecto.
 3. **Entrenamiento y Evaluación Inicial:** Entrenar el modelo utilizando una parte de los datos y evaluar su desempeño inicial con métricas apropiadas.
 ---
