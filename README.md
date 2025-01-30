@@ -122,7 +122,7 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
 ```
   - 2. Modelo 2 agente openai, test de prediccion de score de posible venta a un leads.
   logs generados de ejecucion: [modelo_predictivo](https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/logs/modelo_predictivo.txt).
-  
+
   - 3. Modelo 3 agente openai, resume el texto de una conversación entre cliente/vendedor, generando un resumen para mejorar la interaccion con los clientes.
 ```bash
   D:\workspace\pf_02_exploracion_datos_modelo\modelos>python modelo_asistente_resumen_conversacion.py
@@ -186,9 +186,20 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
   Para maximizar la efectividad en futuras interacciones, el vendedor debería enfocarse en hacer preguntas abiertas que permitan una mejor comprensión de las necesidades del cliente. Además, incorporar testimonios de alumnos anteriores y crear un sentido de urgencia respecto a las ofertas podría aumentar la tasa de conversión. Finalmente, ofrecer asistencia directa en el proceso de inscripción ayudaría a asegurar el cierre de la venta de manera más efectiva.
   *****************************************************************************************
 ```
+  - 3. Modelo 4 Algoritmo en tensor Flow para predecir el score de posible venta a un leads.
+```bash
+  Epoch 1/3
+  [1m185/185[0m [32m====================[0m[37m[0m [1m8s[0m 30ms/step - accuracy: 0.7978 - loss: 0.4677 - val_accuracy: 0.8542 - val_loss: 0.3253
+  Epoch 2/3
+  [1m185/185[0m [32m====================[0m[37m[0m [1m6s[0m 32ms/step - accuracy: 0.8513 - loss: 0.3058 - val_accuracy: 0.9248 - val_loss: 0.1883
+  Epoch 3/3
+  [1m185/185[0m [32m====================[0m[37m[0m [1m6s[0m 31ms/step - accuracy: 0.9422 - loss: 0.1611 - val_accuracy: 0.9821 - val_loss: 0.0881
+  Precisión del modelo: 98.21%
+```
+logs generados de ejecucion: [modelo_predictivo](https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/logs/modelo_predictivo_tsf.txt).
 ---
 
-## 🗂 Estructura del Proyecto
+## Estructura del Proyecto
 
 El repositorio contiene la siguiente estructura de archivos y carpetas:
 
@@ -302,5 +313,5 @@ Este proyecto está licenciado bajo la Licencia Apache 2.0. Para más detalles, 
 
 ---
 
-## Autores ✒️
+## Autores
 * **Santiago Rodriguez** - [santiagorodriguez-dev](https://github.com/santiagorodriguez-dev)
