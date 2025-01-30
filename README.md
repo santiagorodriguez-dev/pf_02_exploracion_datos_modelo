@@ -13,27 +13,27 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
    </div>
   <br>
 
-  ***Distribución de Edades (Gráfico de Barras y Densidad)***
+  ***Distribución de Edades (Gráfico de Barras y Densidad)***:
   Muestra la cantidad de clientes en diferentes rangos de edad.
   La mayoría de los clientes tienen entre 22 y 38 años, con una distribución relativamente uniforme.
   Hay un leve descenso en la cantidad de clientes alrededor de los 30 años.
   La línea de densidad ayuda a visualizar la tendencia de distribución.
 
-  ***Distribución por Sexo (Gráfico de Barras)***
+  ***Distribución por Sexo (Gráfico de Barras)***:
   Representa la cantidad de hombres y mujeres que han comprado el curso.
   No hay una diferencia significativa entre ambos géneros, lo que indica que el curso es atractivo tanto para hombres como para mujeres.
 
-  ***Distribución de Estudios (Gráfico de Barras Horizontales)***
+  ***Distribución de Estudios (Gráfico de Barras Horizontales)***:
   Muestra los niveles de educación de los clientes.
   Se dividen en tres categorías: "Grado", "Grado Medio" y "Grado Superior".
   La mayoría de los clientes tienen estudios superiores, seguidos de los de grado medio.
 
-  ***Motivos de Compra Más Frecuentes (Gráfico de Barras Horizontales)***
+  ***Motivos de Compra Más Frecuentes (Gráfico de Barras Horizontales)***:
   Lista los motivos más comunes por los cuales los clientes compran el curso.
   Los motivos más mencionados incluyen el deseo de crear proyectos propios, ser versátiles en el ámbito tecnológico y ganar confianza en el mundo freelance.
   También se observan razones relacionadas con el crecimiento profesional, la mejora salarial y la preparación para roles avanzados como CTO o Tech Lead.
 
-  ***Conclusión***
+  ***Conclusión***:
   El análisis sugiere que el curso de Full Stack es atractivo para personas jóvenes (22-38 años) con diferentes niveles de educación. No hay una gran brecha de género en la compra del curso, lo que muestra su accesibilidad para ambos sexos. Las motivaciones de compra indican que los clientes buscan tanto oportunidades profesionales como proyectos personales en el mundo de la tecnología.
 
   <div style="text-align: center;">
