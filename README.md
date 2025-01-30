@@ -55,7 +55,7 @@ La especialidad en "Letras" tiene un score muy bajo, lo que indica un menor inte
 ***Score en Función de la Edad (Gráfico de Barras)***:
 Muestra cómo varía el score en función de la edad de los clientes potenciales.
 Se observan picos de score en edades como 26, 28 y 31 años, lo que indica que estas edades pueden tener mayor interés en el curso.
-Hay una gran variabilidad en ciertos grupos de edad, representada por las barras de error.
+Hay una gran variabilidad en ciertos grupos de edad, representada por las barras.
 
 ***Top 5 Motivos de Compra con Mayor Score (Gráfico de Barras)***:
 Presenta los principales motivos de compra asociados a los clientes con mayor score.
