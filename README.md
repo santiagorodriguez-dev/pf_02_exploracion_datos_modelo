@@ -18,37 +18,108 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
    <br>
 
 2. **Modelo:**
-  - Modelo agente openai, asistente de informacion sobre un curso especifico, en este caso Full Stack (RDC)
+  - 1. Modelo 1 agente openai, asistente de informacion sobre un curso especifico, en este caso Full Stack (RDC)
 
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_curso_rdc.PNG" alt="logo" />
    </div>
 
-  - Este modelo tiene asignada un base de datos de vectores con toda la informacion disponible del curso.
+  - 2. Modelo 1 tiene asignada un base de datos de vectores con toda la informacion disponible del curso.
 
   <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/base_de_datos_rdc.PNG" alt="logo" />
    </div>
 
-  - Modelo agente openai, test de prediccion de score de posible venta a un leads.
+  - 3. Modelo 2 agente openai, test de prediccion de score de posible venta a un leads.
 
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_prediccion.PNG" alt="logo" />
    </div>
 
-  - Este modelo tiene asignada un base de datos de vectores con toda la informacion de todos los alumnos.
+  - 4. Modelo 2 tiene asignada un base de datos de vectores con toda la informacion de todos los alumnos.
 
   <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/base_de_datos_prediccion.PNG" alt="logo" />
    </div>
 
-  - Modelo agente openai, resume el texto de una conversación entre cliente/vendedor, generando un resumen para mejorar la interaccion con los clientes.
+  - 5. Modelo 3 agente openai, resume el texto de una conversación entre cliente/vendedor, generando un resumen para mejorar la interaccion con los clientes.
   
    <div style="text-align: center;">
      <img src="https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/images/modelo_resumen_venta.PNG" alt="logo" />
    </div>
 
-3. **Entrenamiento y Evaluación Inicial:** Entrenar el modelo utilizando una parte de los datos y evaluar su desempeño inicial con métricas apropiadas.
+  - 6. Modelo 4 Algoritmo en tensor Flow para predecir el score de posible venta a un leads.
+  
+3. **Entrenamiento y Evaluación Inicial:** Entrenamiento pruebas de modelos.
+  - 1. Modelo 1 agente openai, asistente de informacion sobre un curso especifico, en este caso Full Stack (RDC)
+```bash
+    D:\workspace\pf_02_exploracion_datos_modelo\modelos>python modelo_asistente_ventas.py
+    Introduce un mensaje para interactuar con el chatbot (o escribe 'salir' para terminar): hola
+    *****************************************************************************************
+    Consulta realizada:
+    hola
+    *****************************************************************************************
+    Respuesta asistente:
+    ¡Hola! ¿En qué puedo ayudarte hoy? Si tienes preguntas sobre el curso de Desarrollador Full Stack, estaré encantado de responderte.
+    *****************************************************************************************
+    Introduce un mensaje para interactuar con el chatbot (o escribe 'salir' para terminar): informacion disponible del curso
+    *****************************************************************************************
+    Consulta realizada:
+    informacion disponible del curso
+    *****************************************************************************************
+    Respuesta asistente:
+    Aquí tienes la información sobre el curso de Desarrollador Full Stack:
+
+    ### Descripción del Curso
+    El curso de Desarrollador Full Stack está diseñado para convertirte en un profesional versátil en el desarrollo web, abarcando tanto el frontend como el backend. El programa se compone de más de 900 horas de contenido actualizado, incluyendo 100 horas de video y 800 horas de trabajo personal. La duración del curso es de 4 a 12 meses, dependiendo de tu dedicación diaria, con un compromiso de entre 5 y 7 horas al día【6:0†source】.
+
+    ### Estructura del Curso
+    El curso incluye 11 módulos que cubren tópicos fundamentales, entre ellos:
+    1. **Fundamentos de la Programación**
+    2. **JavaScript**
+    3. **NodeJS**
+    4. **Desarrollo de APIs REST**
+    5. **ReactJS**
+    6. **Frontend y Backend**
+    7. **Empleabilidad y Preparación para el Mercado Laboral**【6:1†source】【6:2†source】.
+
+    ### Especializaciones
+    Al finalizar la parte troncal del curso, tendrás la oportunidad de especializarte en áreas como:
+    - IA Developer
+    - Advanced Web Technologies
+    - UX Engineer【6:10†source】.
+
+    ### Certificaciones
+    Al completar el curso, recibirás dos certificados: uno como Desarrollador Full Stack y otro correspondiente a la especialización que elijas【6:0†source】【6:10†source】.
+
+    ### Modalidad y Metodología
+    - **Modalidad 100% online**: Puedes avanzar a tu propio ritmo y adaptar el estudio a tu rutina diaria.
+    - **Clases en directo**: Interacción directa con instructores y compañeros, facilitando la resolución de problemas y el trabajo en proyectos prácticos【6:3†source】【6:5†source】.
+
+    ### Costo
+    El precio del curso es de 3,500 euros, con descuentos disponibles de hasta 750 euros【6:15†source】.
+
+    ### Salidas Profesionales
+    Al completar el curso, estarás preparado para roles como:
+    - Desarrollador Full Stack
+    - Frontend Developer
+    - Backend Developer
+    - UX Engineer【6:11†source】【6:17†source】.
+
+    Si tienes más preguntas o necesitas información adicional sobre algún aspecto específico del curso, ¡no dudes en preguntar!
+    *****************************************************************************************
+    Introduce un mensaje para interactuar con el chatbot (o escribe 'salir' para terminar): que es una IA?
+    *****************************************************************************************
+    Consulta realizada:
+    que es una IA?
+    *****************************************************************************************
+    Respuesta asistente:
+    Lo siento, pero no tengo información sobre inteligencia artificial (IA) fuera del contexto del curso de Desarrollador Full Stack. Sin embargo, puedo decirte que dentro del curso, hay una especialización en IA Developer, donde se abordan temas relacionados con el desarrollo de aplicaciones que utilizan inteligencia artificial.
+
+    Si deseas más información sobre esa especialización o cualquier otro aspecto del curso, ¡estaré encantado de ayudarte!
+    *****************************************************************************************
+    Introduce un mensaje para interactuar con el chatbot (o escribe 'salir' para terminar):
+```
 ---
 
 ## 🗂 Estructura del Proyecto
