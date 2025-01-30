@@ -187,6 +187,7 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
   *****************************************************************************************
 ```
   - 3. Modelo 4 Algoritmo en tensor Flow para predecir el score de posible venta a un leads.
+  Logs generados de ejecucion: [modelo_predictivo](https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/logs/modelo_predictivo_tsf.txt).
 ```bash
   Epoch 1/3
   [1m185/185[0m [32m====================[0m[37m[0m [1m8s[0m 30ms/step - accuracy: 0.7978 - loss: 0.4677 - val_accuracy: 0.8542 - val_loss: 0.3253
@@ -196,7 +197,6 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
   [1m185/185[0m [32m====================[0m[37m[0m [1m6s[0m 31ms/step - accuracy: 0.9422 - loss: 0.1611 - val_accuracy: 0.9821 - val_loss: 0.0881
   Precisión del modelo: 98.21%
 ```
-logs generados de ejecucion: [modelo_predictivo](https://github.com/santiagorodriguez-dev/pf_02_exploracion_datos_modelo/blob/main/logs/modelo_predictivo_tsf.txt).
 ---
 
 ## Estructura del Proyecto
