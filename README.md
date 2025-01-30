@@ -41,23 +41,23 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
    </div>
    <br>
 
-*** Score en Función de la Educación (Gráfico de Barras) ***:
+***Score en Función de la Educación (Gráfico de Barras)***:
 Representa el score medio de potenciales clientes según su nivel educativo.
 Las personas con "Grado" y "Grado Medio" tienen los scores más altos.
 "Grado Superior" y "Licenciatura" también tienen un score considerable, aunque con mayor variabilidad.
 Los niveles "ESO" y "Doctorado" tienen scores bajos, indicando menor interés en el curso.
 
-*** Score en Función de la Especialidad (Gráfico de Barras) ***:
+***Score en Función de la Especialidad (Gráfico de Barras)***:
 Analiza el score según la especialidad académica.
 Los clientes con especialidad en "Informática" tienen el score más alto, seguidos de "Ingeniería".
 La especialidad en "Letras" tiene un score muy bajo, lo que indica un menor interés en el curso en ese grupo.
 
-*** Score en Función de la Edad (Gráfico de Barras) ***:
+***Score en Función de la Edad (Gráfico de Barras)***:
 Muestra cómo varía el score en función de la edad de los clientes potenciales.
 Se observan picos de score en edades como 26, 28 y 31 años, lo que indica que estas edades pueden tener mayor interés en el curso.
 Hay una gran variabilidad en ciertos grupos de edad, representada por las barras de error.
 
-*** Top 5 Motivos de Compra con Mayor Score (Gráfico de Barras) ***:
+***Top 5 Motivos de Compra con Mayor Score (Gráfico de Barras)***:
 Presenta los principales motivos de compra asociados a los clientes con mayor score.
 Los motivos más frecuentes incluyen:
 Explorar la satisfacción de construir algo desde cero (mayor score).
@@ -66,7 +66,7 @@ Hacer realidad ideas locas con código.
 Desarrollar videojuegos o apps personales.
 Ser un 'todoterreno' en cualquier proyecto tecnológico.
 
-*** Conclusión ***
+***Conclusión***
 Los clientes con educación en "Grado" o "Grado Medio" y con especialidad en "Informática" o "Ingeniería" tienden a tener un mayor interés en el curso.
 Las edades más propensas a valorar positivamente el curso están en el rango de 26 a 31 años.
 Las motivaciones clave están relacionadas con la creatividad, la autonomía y la capacidad de materializar ideas en proyectos tecnológicos.
