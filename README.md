@@ -17,7 +17,7 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
    </div>
    <br>
 
-2. **Modelo:**
+2. **Modelos Previstos:**
   - 1. Modelo 1 agente openai, asistente de informacion sobre un curso especifico, en este caso Full Stack (RDC)
 
    <div style="text-align: center;">
@@ -197,6 +197,19 @@ Visualizacion de los datos sinteticos generados en: [pf_01_etl_preprocesamiento]
   [1m185/185[0m [32m====================[0m[37m[0m [1m6s[0m 31ms/step - accuracy: 0.9422 - loss: 0.1611 - val_accuracy: 0.9821 - val_loss: 0.0881
   Precisión del modelo: 98.21%
 ```
+---
+
+## Modelos seleccionados/descartados
+
+Se selecciona los siguientes modelos:
+
+- **Modelo 1 OpenAi Agente**: Interactua correctamente y solo muestra informacion sobre el curso del que tiene informacionn en la base de datos asociada.
+- **Modelo 3 OpenAi Agente**: Resume el texto de una conversación entre cliente/vendedor, generando un resumen para mejorar la interaccion con los clientes.
+- **Modelo 4 Prediccion TensorFlow**: Algoritmo en tensor Flow para predecir el score de posible venta a un leads.
+
+Se descarta el siguiente modelo:
+- **Modelo 2 OpenAi Agente**: Test de prediccion de score de posible venta a un leads, se descarta por tiempo de procesamiento ademas de la imposibilidad de
+conseguir siempre el mismo resultado o medianamente parecido.
 ---
 
 ## Estructura del Proyecto
