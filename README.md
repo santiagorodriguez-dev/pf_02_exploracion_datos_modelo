@@ -328,7 +328,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ---
-# Notas
+### Notas
 -   Crear fichero .env en el raiz del proyecto.
 ```bash
 SUPABASE_URL='url'
